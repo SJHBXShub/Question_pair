@@ -14,3 +14,11 @@ Machine Learning project
 6. fuzz_partial_token_set_ratio
 7. fuzz_partial_token_sort_ratio
 8. TFIDF
+
+## Deepmodel Reference
+1. Enhanced LSTM for Natural Language Inference  
+link: https://arxiv.org/abs/1609.06038 
+2. MatchPyrimid  
+link: https://arxiv.org/abs/1602.06359 
+3. Convolutional Neural Network Architectures for Matching Natural Language Sentences 
+link:https://arxiv.org/abs/1503.03244 
