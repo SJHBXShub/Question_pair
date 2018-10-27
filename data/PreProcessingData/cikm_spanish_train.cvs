@@ -1,0 +1,1401 @@
+is_duplicate,spanish_sentence1,spanish_sentence2
+1,"no he pod pag con mi tarjeta, que deb hac",no pued pag mi ped con mi tarjeta.
+0,"por que aparec ""no pagado"" cuand el pag ya ha sid deduc en mi tarjet","he pag por transferent bancaria, per el pag no ha sid recibido."
+0,cuand recib mi reembols si pag con tarjet de credit,cuand recib el reembols si cancel mi ped
+0,que pas despues de abrir una disput,que pas despues de hab envi mi solicitud de servici de garant
+0,el product que he recib no correspond con la descripcion. ?qu pued hac,he recib un product que no funciona.
+0,por que se ha cerr mi ped,por que mi ped esta cerr por ped rechaz
+0,por que no pued realiz un ped,pued cancel un ped pag por adelant
+1,por que mi pag esta deduc incorrect,por que mi pag esta deduc incorrect
+0,com pued pag con mi tarjet de credito/debit,"no pued pag mi ped con tarjet vis de debito, ¿qu pued hac"
+0,por que mi ped esta en verif tras el pag,en que etap esta mi ped
+0,com pued recib un reembols con la tarjet de credit,com pag con mi tarjet de credit
+0,com pued recib un reembols con la tarjet de credit,no pued recib diner en mi tarjet de credito.
+0,com pued recib un reembols con la tarjet de credit,pued hac pag con tarjet de credit
+0,com pued pag mediant merc pag,pued envi un chequ com metod de pag
+0,"el product recib no es bueno, no funciona, ?qu pued hac",que pued hac si el product ped no esta dispon
+0,"pued cambi los detall del ped (tamaño, envio, etc)",cual son los detall del product
+0,"pued cambi los detall del ped (tamaño, envio, etc)",pued cambi mi envi a envi gratuit
+1,que es la proteccion del comprador,que es la proteccion del comprador
+1,com pag el ped mediant transferent bancari,com proced a pag por transferent bancari
+0,pued cancel un ped de pre-vent,pued cancel un ped pag
+0,el nombr o la contraseñ de su cuent es incorrecto.,cual es el numer iban de la cuent
+1,com cambi mi direccion de email,com cambi mi direccion de email
+0,por que no se ha pag mi ped,he pag y mi ped ha sid cancel por email.
+0,com recuper un cupon,"teng un cupon, ¿com lo uso en mi nuev ped"
+0,por que me sal un error al intent pag,que pued hac si he hech un ped por error
+1,por que el pag ha sid deduc dos vec,por que mi pag se ha hech dos vec
+0,no he recib el reembols,he recib tant la mercanc com el reembols completo.
+0,com pued combin vari ped en un sol pag,pued combin mensaj de diferent ped
+0,com fij mi direccion de entreg,he introduc una direccion de entreg incorrecta.
+1,com pued confirm la entreg una vez que he recib mi ped,confirm ped recibido.
+0,com pued denunci a un vendedor/product,com denunci vulner de marc
+0,com elimin un ped,com elimin mi inform
+0,com pon en contact con el equip de disput,com pued pon en contact con el vendedor
+0,el ped se cancel ?cuant tiemp ser necesari par que el diner este en mi tarjet de credit,no entend la form en la que el diner ser reembolsado.
+0,el ped se cancel ?cuant tiemp ser necesari par que el diner este en mi tarjet de credit,recib mi diner de vuelt si se cancel el ped
+1,"hola! quier realiz un seguimient de mi pedido, ?com pued sab el numer de seguimient",quier mi numer de seguimiento.
+1,dese comunic con un supervisor,quier habl con un humano.
+0,dic que el sistem no esta dispon intent mas tard,"intent pagar, per dic que el sistem no esta disponible."
+1,dic que el sistem no esta dispon intent mas tard,"sistem no disponible, intent de nuev mas tarde."
+1,com pued pag con webmoney,com pag a traves de webmoney
+0,com pued pag con webmoney,com pued pag con western union
+1,"el sistem no esta dispnible, intental de nuev mas tard","el servici no esta disponible. por favor, intentel de nuev mas tarde."
+0,com pued pag en mi moned local,com pued pag tod mis product en la cest de la compr en un sol pag
+0,com pued pag en mi moned local,com pued pag con ideal
+0,cuant tiemp se tard en obten un reembols complet,cuant tard en entreg
+1,por que teng un carg en mi tarjet de credit cuand yo no ten un ped,me cobr en mi tarjet de credit cuand yo nunc les he compr nada.
+1,abri una disput y ?qu deb hac a continu,"he abiert una disputa, ¿qu pued hac despues"
+0,no he recib mi reembols,no he recib mi paquete.
+0,dond esta el diner de mi ped de rembols,recib mi diner de vuelt si se cancel el ped
+0,com revis una valor,com dej una valor sobr los product
+1,que son las devolu local,que son las devolu domest
+0,que son las devolu local,las zapatill jord son replic
+0,cuand se me devolv mi diner de un ped cancel,se me devolv el cupon
+0,que son las devolu local,los product que envi son de poc calidad.
+0,"ahor teng una disputa, ?qu pued hac","abri una disput y, por ahora, nada."
+0,"ahor teng una disputa, ?qu pued hac",pued hac una disput dos vec
+1,com pued pag a trav de transferent bancari,cuand pued compr con transferent bancari
+0,com pued pag a trav de transferent bancari,hac transferent bancari
+0,que form de pag hay,por que no hay metod de pag con western union
+0,com pued recib un reembols a traves de mi sald movil,com recib un reembols a traves de webmoney
+0,com pued recuper mi diner,com pued transfer mi diner a su cuent
+1,com recib el reembols de mi ped,com recib el reembols por mi ped
+0,com pued sub mi vide en respuest a una mediacion de disput,no pued escrib en la caj de text de respuesta.
+1,cuand teng el reembols,cuand teng el reembols
+1,"llev mas de una hor esperando, su servici es muy malo, por favor revis mi consult - no pued ser que que me contest much cos que hoy no quier saber, lean y revis mi consult",quier que me devuelv mi dinero.
+1,"llev mas de una hor esperando, su servici es muy malo, por favor revis mi consult - no pued ser que que me contest much cos que hoy no quier saber, lean y revis mi consult",ped much cos de diferent tiend y quier pag tod juntas.
+1,com cancel una disput,com cancel una disput
+0,com cancel una disput,com modif una disput
+0,por que no se pued abrir una disput,por que el ped no se pued envi a mi pais/region
+0,por que no se pued abrir una disput,por que el ped no se pued envi a chin
+0,el ped no aparec en mi cuent,com recib el reembols por mi pedido? ¿en mi cuent bancari
+0,el vendedor dic que no tien en stock y me pid que cancel,intent registr y me dic que el servici no esta disponible.
+0,"despues de la cancelacion, ?en cuant dias devolv el diner","si pid ahor con ups, ¿en cuant dias lleg el articul a mi pais"
+0,"entonc com pued hac par salv mis pedidos, que son muchos, si mi direccion vien incomplet","ya he pag mi pedido, per aparec com que aun no he pagado, ¿qu hac"
+0,teng un problem con un vendedor,teng un problem con el pago.
+1,"por favor lean mi consult - no pued ser que que me contest much cos que hoy no quier saber, lean mi consult",quier que me devuelv mi dinero.
+0,com establec tarjet principal,com pued busc los product en su pagin principal
+0,com establec tarjet principal,com pued establec un metod de pag automat
+0,com establec tarjet principal,por que fall al establec mi direccion de envi
+1,com consegu que me devuelv mi diner,com pued ped que me devuelv el diner de este ped
+0,cuand recib mi ped,recib mi ped a tiemp
+1,el product que compr no funcion,el product que compr no funciona.
+0,que pas si el product que me dieron no coincid con el de la descripcion,que pas si acept los detall de la disput
+0,el sistem no me dej pag,el orden no me dej escrib mensajes.
+0,el sistem no me dej pag,no me dej abrir una cuenta.
+0,el sistem no me dej pag,por que el sistem me dic que no pued particip en esta promocion
+0,cuand recib el reembols despues de cerr el ped,cuand recib mi reembols por el ped cancel
+0,teng un problem con una disput,teng un problem con un mal vendedor.
+1,"su servici es muy malo, por favor lean mi consult - no pued ser que que me contest much cos que hoy no quier saber, lean mi consult",necesit que me ayud por favor
+1,"su servici es muy malo, por favor lean mi consult - no pued ser que que me contest much cos que hoy no quier saber, lean mi consult",por que teng que pag la tarif de servici de su banc
+0,com hac el pag a traves de bolet,ya he hech el pag con boleto.
+0,com pued verific mi direccion,no pued escrib mi direccion danesa.
+0,pued cancel un ped que ya pag,"dese cancel un pedido, per no puedo."
+0,quier sab com se me va a realiz el reembols,quier sab mas sobr el reembols por tarjet de credito.
+0,com modific una disput,com cancel una disput aceptada.
+0,por que mi ped se cierr con el pag deduc,por que se ha cancel el ped
+0,cad vez que voy a pag me dic que ha ocurr un error desconoc,necesit envi una solicitud al banc cad vez que pag a plaz
+0,cuand me daran mi diner despues de cancel el ped,cuand me devolv mi dinero? el ped no ha llegado.
+0,dic que mi cuent no esta autoriz par hac compr,dic que el sistem no esta disponible.
+0,el estad de mi ped es pendient de recepcion y todav no he recib el product,he pag mi pedido. ¿por que el estad del ped dic pendient de pag
+0,com pag el ped mediant transferent bancari,quier pag la factur con una transferent bancaria.
+1,"por que aparec ""no pagado"" cuand el pag ya ha sid deduc en mi tarjet","ya he pag mi pedido, per aparec com que aun no he pagado, ¿qu hac"
+1,ya estam otra vez dand vuelt sin entendernos. podri atend algui,por que mi pag esta siend verific otra vez si ya ha sid confirm
+0,com pued sab si mi ped ha sid cancel o no,quier sab si mi ped ha sid realizado.
+0,com pued sab si mi ped ha sid cancel o no,com se si mi ped ha sid envi
+1,com usar un cupon en un ped,com usar un cupon en el ped
+1,cuand recib el diner,cuand recib el diner
+0,cuand se van a envi mis product,pued envi mis product a chin
+0,cuand se van a envi mis product,cuand pued recib mi paquet despues de que los product se envi
+0,por que cancel mi ped,por que mi ped esta vaci
+0,por que cancel mi ped,por que mi ped ha desaparec
+1,que otras form teng de hac el pag,que otras opcion de pag pued usar
+0,que otras form teng de hac el pag,"quier cancel mi pedido, per el vendedor lo envi de tod formas."
+0,qui esta a carg de mi disputa? ?pued obten tu direccion de corre electron,com pued obten los mejor cost de envi
+0,qui esta a carg de mi disputa? ?pued obten tu direccion de corre electron,borr de la list de correo.
+0,com pag mi ped a traves de west union. ?cual es el siguient pas,cual es el codig de mi pais
+0,com pag mi ped a traves de west union. ?cual es el siguient pas,pod hac el pag a traves de tarjet de debit
+0,el ped no lleg y el vendedor no respond,el vendedor no respond a mi peticion de reembolso.
+0,el product no es lo que quier o ped,"el vendedor no tien los zapat que pedi, per no me contesta."
+0,"el tiemp de proces ha terminado, y el vendedor no ha envi el product",cuand recib el reembols si la disput ha termin
+0,hol teng problem par hac los pag deb a una apelacion pendient que no esta complet,teng problem par cre mi cuenta.
+0,no pued pag mis ped,com pued pag mi ped
+1,quier habl con un human,quier habl con un humano.
+0,graci hac poc compr un product y sol me dur muy poc sal defect de fabric es un aut stere,necesit instruccion par un articul que compre.
+1,teng problem con una disput,teng un problem con la disputa.
+0,cuand deb pag por un ped de pre-vent,com deb pag con western union
+0,com pag con tarjet de credit,teng un problem al pag onlin con mi tarjet de credito.
+0,"com pued hac par salv mis pedidos, que son muchos, si mi direccion vien incomplet",quier que mis ped se envi junt a mi direccion.
+0,el sistem de pag esta fuer de servici,com uso el servici de garant
+0,por que en mi estatus indic esper mi pag,por que mi pag esta congel
+0,por que no se ha mostr mi comentari,por que el pag no se ha verific
+0,por que no se ha mostr mi comentari,por que se ha extend el period de entreg
+1,por que se ha cancel mi ped,mi ped ha sid cancelado. ¿pued dec por que
+0,por que se ha cerr mi cuent,por que no se ha cancel mi ped
+0,com pued recib un reembols a traves de western union,"tras hac un pedido, ¿com pued pag con western union"
+0,el ped no se ha pag,el vendedor se nieg a envi mi ped despues de hab pagado.
+0,el ped no se ha pag,por que el ped ha sid cancel per el pag ya se ha hech
+0,el siti no me permit abrir una disput,no se me permit inici sesion.
+1,quier habl con una person,necesit habl con un representante.
+0,quier sab el estad de mi reembols,quier sab el estad de la mediacion.
+1,quier hac una consult,quier hac transferent bancari desd **.
+0,problem con la garanti,estoy ten problem con mi ped
+1,necesit present una quej contr un vendedor!,quier present una reclam porqu el vendedor me ha estafado.
+0,quier recuper el dinero! ?no pued esper tant tiempo!,quier extend el tiemp de envi a * dias.
+0,quier recuper el dinero! ?no pued esper tant tiempo!,quier que devuelv el diner de los product a otra tarjeta.
+0,com introduc una direccion de envi,com añad la direccion de envi
+0,com introduc una direccion de envi,com cambi la direccion de envi
+0,com prueb mi ident,com cancel mi ped
+0,com pued pag la inform de pag,cuand pued recib la inform de envi
+0,com pued revis un comentari,com pued recib un reembols
+0,com se extiend el tiemp de proces,pued extend el tiemp de proces
+0,cual es el estad de mi ped,el estad de mi ped es nulo. ¿qu ocurr
+0,cual es la solucion de mi cas,cual es la situacion con mi disput
+0,cual es la solucion de mi cas,cual es la inform de contact
+1,cuand voy a recib el diner de los product cancel,cuand recib un reembols si los ped han sid cancel
+0,dond esta la respuest,dond esta la inform de la disput
+1,en cuant dias recib mi diner si cancel el ped,cuand recib el reembols si cancel mi ped
+0,exist la form de pag en la puert,cual es la mejor form de contact con un vendedor
+0,exist la form de pag en la puert,"hic una compra, per la tiend no existe."
+0,los gast de envi fueron pag en el moment de envi o en la recepcion del product,gast de envi por devolucion.
+0,por que el pag recib es men de lo que pag,el vendedor dic que el pag no ha sid recib despues de hab finaliz el pedido. ¿qu pued hac
+1,por que hast ahor no teng mi diner,por que no me devuelv el diner
+0,por que mi envi tard tant,por que mi pag tard tant en ser proces
+0,por que mi envi tard tant,por que tard tant en resolv la disput
+1,por que no pud pag con mi tarjet de credit,por que no pued usar mi tarjet de credit
+0,por que permit que engañ a vuestr client,por que me pid que guard mi tarjet
+0,por que el vendedor no envi el product ni respond,"el product recib no es buen ni funciona, ¿qu pued hac"
+0,por que el vendedor no envi el product ni respond,el vendedor no respond a mi peticion de reembolso.
+1,pued pag con una tarjet de regal,pued pag con una tarjet de regal
+0,que es mi id de usuari,por que mi nivel de usuari ha disminu
+0,que hac si el vendedor me esta estaf,que pued hac si mi ped esta congel deb a las activ del vendedor
+1,com me pong en contact con el vendedor,com contact con un vendedor
+0,com pued present una quej,"necesit present una disputa, per el plaz se ha agotado. ¿qu pued hac"
+0,cambi la person de contact,com pued cambi la direccion de recepcion
+1,cuand recib el reembols despues de cancel el ped,cuand recib el reembols tras cancel el ped
+0,cuand recib el reembols despues de cancel el ped,cuand ser aprob el reembols y cuand lo recib
+0,dond esta mi ped por favor,mi ped esta cerr por no enviado.
+0,el estad de la solicitud del reembols,cual es el estad de la reclam
+0,el estad de la solicitud del reembols,"el estad del ped no ha cambi despues de que hic el pago, ¿qu ocurr"
+1,"el ped indic que no he pagado, per ya pag","ya he pagado, per aparec com que no lo hice."
+0,el proveedor no respond a los cas,com contact con el equip de gestion de cas
+0,el vendedor deb pag los gast de envi,teng que pag los cost de envi par el servici de repar
+0,el vendedor exig el uso de paypal par devolv mi dinero.,esper par mi reembols y el vendedor nunc respondio.
+0,el vendedor me dic que cancel el ped par devolv el diner,cuant tard el centr de disput en devolv mi diner
+0,el vendedor me ha dad un numer de seguimient que no se correspond con mi pedido.,"hic un pedido, per no me dieron ningun numer de seguimiento."
+0,"acab de realiz un ped per dij que la transaccion se cerro, no entiend","acab de ped un product online, per no he puest la direccion correcta, ¿qu pued hac"
+0,"acab de realiz un ped per dij que la transaccion se cerro, no entiend",com pued cancel un product que acab de hac
+0,teng un reembols pendient,com pid un reembols
+0,"quis sab que ha pas con mi disputa, no lo entiend",teng una disput por mi ped que ha sid cerrada.
+0,quier borr mi tarjet de credit,no quier envi el extract de mi tarjet de credito.
+0,"por favor, hagam sab por que se cancel uno de mis ped",me pued hac descuent
+0,"por favor, hagam sab por que se cancel uno de mis ped",cuant diner me devolv
+0,no pued localiz mi ped,pued edit mi ped
+0,no me a lleg mi ped,mi ped ha llegado. los articul estab algo dañados.
+0,hol ya mir la pagin que me suger per no consig cambi de eur a pes me colabor por favor,"por favor, diganm com cambi la direccion de entrega."
+0,porqu no pued abrir disput y mi cuent esta desactiv por segur,com pued cerr esta cuent
+0,com pued recib un reembols a traves de doku,com recib un reembols a traves de maestr
+0,"que quier dec ""guard tarjeta"" en la pagin de pag",transferent bancari y western union no aparec com metod de pag en la pagin de pago.
+0,com consig un cupon,com elimin un cupon
+0,com consult dond esta mi ped,dond esta mi cupon
+0,com pued elimin articul de mi list de dese,compart mi list de deseos.
+0,com pued sab la id de otros miembr,pued contact a otros comprador
+0,com pued sab si han envi los product,com cancel un ped si los product ya se han envi
+0,com pued sab si han envi los product,com pued ver los mensaj que ya he envi
+0,com pued sab si un proveedor acept deposit o no,com sab si mi ped esta cancel o no
+0,com reactiv mi cuent,com cierr mi cuent
+0,com reactiv mi cuent,com restaur mi cuent
+0,com solicit un reembols,com pued consegu un reembols
+0,cuant tiemp tard la verif de los document,cuant tiemp se mostr los product vist recient en la web
+1,com pued cancel un ped que esta en proces de pag,com pued cancel el ped en pendient de pag
+0,cuand se cancel el ped,cuand se actualiz la cantid de mi ped despues de que el vendedor la cambi
+1,cuant tiemp es necesari par pod recuper el diner de una transaccion fall,cuant tard en devolv el diner de una transaccion fall
+0,cuant tiemp tom la verif del pag,"mi ped fue congel despues de la verif del pedido, deb a que el vendedor esta siend investigado."
+0,cuant dias falt hast que lleg,necesit confirm mercanc recib antes de que lleg
+0,en que situacion se me realiz el reembols,se me devolv el cupon
+0,hay algun error en sus opcion de pag,hay algun vendedor en norteamer
+0,hay algun error en sus opcion de pag,hay algun cost de cancel de ped
+1,por que el ped no pued ser envi a mi pais,por que no se pued envi el ped a mi pais
+0,por que me han descont un pag si no he hech ningun transaccion,he hech un pag duplic por error.
+0,por que me han descont un pag si no he hech ningun transaccion,el vendedor ser notific si he hech el pag
+1,por que no pued usar mi tarjet de credit,por que no acept mi tarjet de credit
+1,pued consegu que el product lleg mas rap,pued hac que el product lleg mas rap
+0,pued sab que esta pas con mi disput,com pued sab si mi ped esta vin
+0,pued sab que esta pas con mi disput,por que mi ped esta cerr con el pag deduc
+0,pued sab que esta pas con mi disput,por que esta cerr la disput
+1,que deb hac si mi paquet esta deten en la aduan,"el paquet esta en man de la aduana, ¿com pued hac el tramit"
+0,que pas si el vendedor no acept ni rechaz mi disput en el plaz indic,que pas si el vendedor no aprueb mi solicitud de cancel
+0,que signif -error de direccion de envi,que signif pendient de envi de vuelt
+0,com abrir una disput par un ped finaliz,com abrir disput por un ped cerrado.
+0,com pon en contact con el proveedor si la direccion de corre electron no funcion,com contact con el equip de gestion de cas
+0,com utiliz el reembols de un ped par otro,cuand recib un reembols por el ped
+0,cancel pendient de pag,"les envi mi transferencia, per aun pon pendient de pago."
+0,cual es el cost de envi a chin,cual es el nombr de la compañ del envi
+0,cuand voy a recib mi reembols del ped cancel,cuand voy a recib mis ped
+1,"el codig de seguimient es incorrecto, no pued sab dond esta mi ped","el codig de seguimient es incorrecto, asi que no pued sab dond esta mi pedido."
+0,el proveedor no ayud a resolv mi reclam,com comprueb mi reclam
+0,el proveedor no esta onlin,por que mi ped esta congel a pes de que el proveedor ya lo envi
+0,el proveedor no esta onlin,dond esta la respuest del proveedor
+0,"el vendedor acord devolv el dinero, ?com pued obten",uno de mis ped fue cancel por el vendedor. ¿com pued recib mi diner de vuelt
+0,"el vendedor acord devolv el dinero, ?com pued obten",el product ha sid devuelt al vendedor. ¿cuand pued recib mi diner
+0,el vendedor no es respons de la disput,com cambi el motiv de la disput
+0,el vendedor no extiend el plaz de entreg,el vendedor me pid que confirm la entreg antes de envi el producto.
+0,por que no me han dad la inform de envi de mi ped,por que la id de seguimient que me han dad es fals
+0,por que no me han dad la inform de envi de mi ped,por que no hay mas inform de seguimient de mi paquet
+0,que form de pag hay,que otro mod hay par que hag el pag
+0,que form de pag hay,"quier cancel mi pedido, per el vendedor lo envi de tod formas."
+0,"abri una disputa, acord en realiz un reembols de mi diner",abri una disput y el vendedor acepto.
+0,"abri una disputa, acord en realiz un reembols de mi diner","he abiert una disput por mi pedido, per el proveedor ha rechaz la peticion de reembolso."
+0,acept una disput accidental,com cancel una disput
+0,ayud par sab dond esta un ped,he cancel un pedido. ¿dond esta mi diner por los articul
+0,ayud par sab dond esta un ped,dond esta vuestr sed
+0,cuand aprob mi apel,"mi apel ha sid aceptada, ¿pued compr otra vez"
+0,cuand aprob mi apel,necesit verific mi email cuand cre una cuenta.
+0,hol no pued pag mis ped,pued pag mis ped combin
+0,"hola, han envi mi paquet a otra direccion per no pued abrir disput porqu mi cuent esta desactivada, ¿qu pued hac",com pued hac un ped si mi cuent esta desactiv
+0,"hola, han envi mi paquet a otra direccion per no pued abrir disput porqu mi cuent esta desactivada, ¿qu pued hac",mis punt de privilegi no se han añad a mi cuenta. ¿qu pued hac
+0,pues mi problem es que he cre la cuent per el corre electron no es correct,no acept mi pag en western union. la razon es que el numer de cuent no es correcto.
+0,quier que el ped vuelv a su curs,"que signif ""el proveedor ha envi parcial su pedido"""
+0,ver mi ped no ha lleg y mi orden aparec com complet per nunc recibi mi product,"ya realic mi pago, per aparec com no pagado. ¿qu hag"
+1,com compr al por mayor,com compr al por mayor
+0,com comprob el estad del envi,com pued comprob el estad de la reclam
+0,com consegu el reembols si el product no lleg,"si pid ahor con ups, ¿en cuant dias lleg el articul a mi pais"
+0,com eleg el tamañ o el color,com pued usar el cupon o el codig del cupon
+0,com es que mi ped no se aprueb,quier mi reembolso. ¿com hag que la disput se resuelv
+0,com es que mi ped no se aprueb,cuand se actualiz la cantid de mi ped despues de que el vendedor la cambi
+0,com pag con tarjet vis,estoy intent pag con una tarjet vis y no me dej pagar.
+0,com pued activ mi cupon de registr,com registr una cuent de vendedor
+0,com pued cambi el pais,com pued cambi el idiom español a ingles
+0,com pued cambi la direccion email de registr,"por favor, diganm com cambi la direccion de entrega."
+1,com pued cerr la sesion de mi cuent,com cierr sesion con mi cuent
+0,com pued comprob si mi direccion de entreg es correct,com cambi la direccion de entreg
+0,com pued comprob si mi direccion de entreg es correct,com pued correg mi direccion de email
+1,com pued gan punt o consegu cupon,com pued gan cupon
+1,com pued hac cambi en mi perfil,com pued edit mi perfil
+1,com pued hac cambi en mi perfil,com edit mi perfil de miembr
+0,com pued hac cambi en mi perfil,no pued encontr mi perfil de miembro.
+0,com pued hac cambi en mi perfil,no pued inici sesion en mi cuenta. ¿qu pued hac
+0,com pued hac un cambi,com pued hac un ped combin
+0,com pued obten un reembolso? envi el product de nuevo.,pued transfer el reembols a mi nuev ped
+0,com pued obten un reembolso? envi el product de nuevo.,mi ped fue cancelado. ¿com pued lo hag de nuev
+0,com pued reanud un ped,com pued hac un ped si mi cuent esta deshabilit
+0,com recib el numer de seguimient de mi ped,dond pued ver el numer de seguimient de mi ped
+1,com recib el numer de seguimient de mi ped,com obten el numer de seguimient
+0,com respond a una reclam,com cancel una reclam
+0,confirm la recepcion del ped,por que la fech limit par confirm ped recib ha cambi
+0,cual es la solucion de la disput,quier acept la solucion de reembols parcial.
+0,cual es la solucion de la disput,cual es el estad de la reclam
+0,cual son los cas tipic de activ fraudulent,que son los punt de privilegi
+0,cual son los pag dispon,los jers son autent
+0,cual son los pag dispon,cuant son los gast por transferent bancari
+0,cuand podr consegu el reembols complet,cuant tard un reembols complet
+0,cuand podr consegu el reembols complet,cuand recib el reembols tras abrir disput
+1,cuand recib un reembolso? los ped han sid cancel,cuand recib un reembols si los ped han sid cancel
+0,cuand voy a sab la situacion de mis articul envi,pued envi mis articul a la direccion de la empres de mensaj
+0,cuant tard el proveedor en proces mi ped,cuant tard mi ped en ser entreg
+0,cuant tard el proveedor en proces mi ped,"si pid hoy, ¿cuant tiemp tard en lleg a mi pais"
+0,cuant tard el proveedor en proces mi ped,cuant tard en lleg aqu
+1,cuant tiemp pued tard el vendedor en aprob mi cancel,cuant tard el vendedor en aprob la cancel de mi ped
+1,dond esta mi product,dond esta mi product
+0,dond pued escrib una quej,no pued escrib mensajes.
+1,deb hac algo par que consegu el reembols,com pued consegu un reembols
+0,es posibl pag con una tarjet de debit,no pued pag con tarjet de debito.
+0,hay un limit maxim de transaccion,cual es el limit de cuant maxim par una transaccion
+1,mi ped ha sid cancel com vuelv a realiz el ped,mi ped ha sid cancelado. ¿com pued repet
+0,mi ped se va a envi por mar o air,por que se cancel mi ped
+0,mi ped se va a envi por mar o air,por que se cierr mi ped
+0,por que han cancel mi ped,por que en mi ped pon envi cancel
+0,por que la cuent esta congel,por que la pagin del product no esta dispon
+1,por que me han cobr dos vec,por que me cobr dos vec
+0,por que no es acept mi direccion de envi,por que el tiemp de envi es tan larg
+0,por que no ha sid cancel mi ped,por que no ha sid reembols mi ped despues de que fues cancel
+0,por que no ha sid reembols mi ped despues de que fuer cancel,por que dic que mi ped ha sid cerr
+1,por que no he recib el reembols,por que no he recib el reembols del ped
+0,por que no he recib mi reembols,por que no he recib un email con mi nuev contraseñ
+0,por que no pued carg mi product,por que no pued encontr el product en una tiend
+1,por que no pued compr mis product,por que no pued compr mis product
+0,por que no pued compr mis product,por que no pued ver mis ultim ped
+0,por que no se verif el pag,por que se ha ajust el preci
+0,por que tant tiemp par mi reembols,que deb hac par recib mi reembols
+1,pued hac dropshipping,pued hac dropshipping
+1,pued pag a traves de paypal,pued pag via paypal
+0,que es el numer de telefon del proveedor,pued darm el numer de telefon de atencion al client
+0,quien recib el pag por western union,por que ha fall mi pag por western union
+1,se pued pag con una tarjet moneder de walmart,pued usar una tarjet de walmart
+0,se pued pag con una tarjet moneder de walmart,pued pag con una tarjet de banc chin
+0,"buen dias, llev dias trat de naveg en la pagin y teng problem desd vari notebook y pc. no pued cambi de pagin par ver los product compr y tampoc pued confirm recepcion de ped ya que la pagin no es cap","quier cambi la direccion de envi par un ped en esper de pago, ¿qu pued hac"
+0,com pued transfer mi diner a la cuent,pued transfer mi pag por el ped cerr a otro ped
+0,com quej al vendedor,com pued dej mal not al vendedor
+0,com quej al vendedor,no pued envi imagen al vendedor
+0,cambi la razon de cancel del ped,com pued el vendedor cambi la sum del ped
+0,com se escrib derech en ingles,mi ped se entreg en mi domicili
+1,confirm que he recib el ped por error.,confirm ped recib por error.
+0,confirm que he recib el ped por error.,"por que he recib el error ""el numer de cuent bancari no es valido"""
+1,cuand voy a recib mi reembols,me gust sab cuand voy a recib mi reembolso.
+0,cuant tiemp tard su centr de disput en devolv mi diner,"el ped fue cancelado, ¿cuant tard el diner en volv a mi tarjet de credit"
+0,cual es la empres de envi local,que es la list de dese
+0,dej las med en la caj de comentari a los proveedores. ?es eso correct,"al compr mercanc de diferent vendedores, ¿tod los ped se export en la mism caj"
+0,dej las med en la caj de comentari a los proveedores. ?es eso correct,pued dej valor par los proveedor
+0,dentr de mi carr de compr no aparec mis product compr,mis compr fueron envi a un numer que no es el de mi casa.
+0,el numer de seguimient no pued localiz el envi,den el numer de seguimiento.
+0,el ped ha sid congel just despues de pag,por que no ha sid reembols mi ped despues de que fues cancel
+0,el product no es lo mism que el anuncio.,el product que compr no funciona.
+1,el seguimient de mi ped no funcion,mi numer de seguimient nunc funciona.
+0,el vendedor dic que no envi el product,"intent pagar, per dic que el sistem no esta disponible."
+0,el vendedor dic que no es posibl envi el product,"no entiend bien el ingles, ¿es posibl habl en rus"
+0,el vendedor inform un codig de seguimient y no se encuentr,el codig de seguimient escrit en la web esta mal.
+1,el vendedor no era honest,el vendedor no era honesto.
+0,el vendedor no era honest,quier ayud par encontr un proveedor honesto.
+0,el vendedor no es confiabl,recib un email con el avis de que el vendedor es sospech de activ fraudulenta.
+0,el vendedor no ha envi los product,"he devuelt los productos, per el ped ha sid completado."
+0,el vendedor no ha envi los product,com cambi una valor en el vendedor y los product
+0,"en esta tiend me pid mas diner aunqu esta en promocion sus articul aleg que no gan dinero, y quier que les pag vari eur por encim de su valor en promocion top-vip stor",no entend la form en la que el diner ser reembolsado.
+0,com pued obten un reembolso? envi el product de nuevo.,com pued obten una factur
+0,com recuper un cupon,com uso mas de un cupon en un ped
+0,cual es el estad ahor,cual es el cupon par miembr vip
+0,cuand pued recib el reembols,en cuant tiemp pued recib el reembols
+0,cuant tard el envi a mi pais,cuant tard en lleg a mi pais
+1,dond esta el boton contact ahor,dond esta el boton de contact ahor
+0,en cuant tiemp pued recib mi ped,pued recib mi ped el viern
+0,por que no hay respuest a mi reclam,por que no progres mi reclam
+0,que es pendient de pag,que es pendient de recib
+0,se realiz un envi por separ de tod los articul del carrito? o ¿van a lleg tod al mism tiemp,quier pregunt si tod los vendedor son de chin o hay otros vendedores.
+0,algui ha hech una transaccion con mi tarjet de credit,"estoy intent pag con una tarjet vis de credito, per siempr dic que ha fall el pago."
+0,aun no recib el reembols,"pag via western union, ¿com recib el reembols"
+0,boton de seguimient no funcion,no recib numer de seguimiento.
+0,com contact al vendedor,com contact con el equip de atencion al client
+0,el vendedor a cerra la disput,"el vendedor acept los termin de la disputa, per no ha hab reembolso."
+0,el vendedor ha cancel el envi,"pag por un pedido, per fue cancelado. el vendedor no ha devuelt el dinero."
+0,"hola, un vendedor envi mi paquet a una otra direccion incorrecta,",he introduc una direccion de entreg incorrecta.
+0,la mercanc recib no es la acord,el vendedor ha envi la mercanc al numer equivocado.
+0,le hic el reclam y me bloque de sus bandej de mensaj,"hic el pedido, per ellos sub el preci de repente."
+0,me pon que el ped esta cerr y que deb apel,el ped fue cerr por el sistem deb a que el vendedor es sospechoso.
+0,me pon que el ped esta cerr y que deb apel,"en mi ped pon que no he pagado, per pued ver el pag en mi cuent del banco."
+0,"mi nombr es francisco, queri sab si exist inconvenient de envi en chin",olvid pon mi nombr en la direccion de envio.
+1,necesit habl con un agent,necesit habl con una persona.
+0,"no he recib la mercanc y el tiemp de disput se cerro, que pued hac","la disput se ha cerr automaticamente, ¿qu pued hac"
+1,no pued pag mi ped hac un mes,"no pued pag mi pedido, ¿qu pued hac"
+1,no pued pag mi ped hac un mes,no pued pag mi ped con mi tarjeta.
+1,quier habl con un comercial,quier contact con un humano.
+0,teng una consulta.. mi apelacion sal aprobada. es dec ahor si pued pag mis ped,no pued encontr mi pedido. no sale.
+0,"buen tardes, me abri una disput con el vendedor deb a una mercanc que compr y me defectuoso, per mi solicitud hab desaparec de la list y no ten ni siqu una vuelt",me gust pag la mit con una tarjet de credit y la otra mit con otra tarjet de credito.
+0,cre que es una estaf del vendedor,que pued hac si la puntuacion del vendedor no es fiabl
+1,cuand pued habl con un human,me gust habl con un agent de atencion al cliente.
+0,el vendedor cancel el ped,envi el vendedor mi ped
+1,hol no recib el diner de mi reembols de mi ped cancel,mi ped esta cancel y quier mi diner de vuelta.
+1,la proteccion del comprador ya finaliz,que es la proteccion del comprador
+0,la proteccion del comprador ya finaliz,teng proteccion del comprador
+0,me gust sab cuant van a tard en pon en contact conmig por la disput q he abiert,me van a dar la inform de envi
+0,"queri consult por el status en el que se encuentr una compr que hic reci ya que me sal un cartel de error indic que la compr no se pud proces per que antes de volv a intent un pago, verifiqu si el pag se efectu",el vendedor me pid que confirm la entreg antes de envi el producto.
+0,quier comunic con un asesor,quier pag con debito.
+1,com cambi el email en mi cuent,"quier cambi mi direccion de email porqu la viej fue hackeada, ¿com pued hac"
+1,com cambi la direccion de recepcion,com pued cambi la direccion de recepcion
+0,com cambi la direccion de recepcion,confirm por error la recepcion de los articulos. ¿com cambi el estad
+1,com cambi mi direccion,quier cambi mi direccion.
+0,com hag par indic que estoy onlin,com hag par obten inform sobr mi ped
+0,com hag par indic que estoy onlin,no estoy satisfech con el servici que he recibido. ¿com pued dej una valoracion
+1,com pon en contact con el equip de disput,com contact con el equip de disput
+0,com pued cambi la direccion email de registr,com ocult la direccion de email.
+1,com pued cambi la direccion email de registr,necesit cambi mi direccion de email.
+0,com pued cancel una compr que no se ha pag,com pued prob que he pag por transferent bancari
+0,com pued cancel una compr que no se ha pag,"he pag mi compra, per pon que no hab pago."
+1,com pued comprob si mi direccion de entreg es correct,com pued comprob si tien mi direccion correct par el envi
+1,com pued consult el estad del ped,com se cual es el estad del ped
+0,com pued encontr product o vendedor anterior,com pued elimin ped anterior
+0,com pued encontr product o vendedor anterior,com pued encontr la valor que dej
+0,com pued obten mi reembols,pued obten algun muestr
+0,com pued sab si han envi los product,que hac si el vendedor ha envi los product con el servici de mensaj incorrect
+0,com pued sab si se ha realiz el pag,quier sab si el proveedor ha recib el pag o no.
+0,com pued sab si un proveedor acept deposit o no,com se pued sab si un vendedor es legitim
+0,com pued ten mi propi tiend,"si uso mi tarjet de credito, ¿pued ten proteccion del comprador"
+0,com se extiend el tiemp de proces,por que no pued extend el tiemp de proces
+0,com se pued encontr un numer de identif del product,quier sab com encontr el producto.
+1,com utiliz la garant,com uso el servici de garant
+0,cuand se van a envi mis product,mis product no funcionan.
+0,cuand ser cancel el ped,cuand ser aprob el reembols y cuand lo recib
+0,cuand teng el reembols,com comprueb si teng el reembols o no
+0,cuant tiemp teng par devolv un paquet,devolv un articul defectuoso.
+0,cuant dias falt hast que lleg,pued dec cuant dias suel tard en complet una reclam
+0,cuant dias falt hast que lleg,"hast que no complet la verificacion, no podr hac ningun pedido."
+0,dond deb ir par segu mi ped,que deb hac si mi pag con webmoney ha fall
+0,dond deb ir par segu mi ped,pued cambi mi valor par el ped
+0,dond deb ir par segu mi ped,no hay puntuacion de valor par mi pedido.
+0,dond esta el product,esta en stock el product
+0,dond pued ver el centr de quej,dond pued ver mi cuent
+0,dond pued ver la respuest del proveedor,sin respuest del proveedor tras una consulta.
+0,dond pued ver la respuest del proveedor,dond ver el codig del cupon cuand hag el ped
+1,el numer de ped es tambien el numer de seguimient,es lo mism el numer de ped y el numer de seguimient
+0,el numer de ped es tambien el numer de seguimient,el numer de seguimient no funciona.
+0,hay algun error en sus opcion de pag,hay algun cost de cancel de ped
+0,hay algun form de pag en metal,hay algun form de que pued combin ped de diferent vendedor en un envi
+0,los product del ped se envi junt o separ,pag antes o despues de recib los product
+0,mi tarjet de credit deb ser internacional par compr en esta pagin,par que sirv esta pagin
+1,podeis ayud a segu mi ped,pued ayud a hac el seguimient de mi ped
+0,"por que me hac carg de un ped a mi tarjeta, per no me lleg ningun corre de la confirm de la vent ni me aparec que hay hech algun ped",por que me han cobr un ped de otra person
+1,por que no pued dej comentari par mi ped,por que no pued dej valor por mi ped
+1,por que no se aprob el pag,por que el pag no se ha verific
+0,por que se devuelv mi ped,por que se cerr mi ped
+0,por que se devuelv mi ped,por que el ped no se muestr en mi cuent
+0,pued pag en metal,com pued pag mis ped en un sol pag
+0,pued ten un recib de mi pag,com recib un reembols por pag sms
+0,que comentari le di,quier cambi comentarios.
+1,que deb hac si mi paquet esta deten en la aduan,"el paquet esta en man de la aduana, ¿com pued hac el tramit"
+1,que pas si el vendedor no envi el ped antes del finaliz el tiemp de proces,que pas si el vendedor no envi mi ped antes del tiemp de proces
+0,si lo intent nuev no se cobr dobl,que hac si la pagin no se carg
+0,voy a pag sol el cost de los product y de tod,com cambi una valor en el vendedor y los product
+0,a colombi porqu empres lleg los envi,pued envi mis articul a la direccion de la empres de mensaj
+0,a dond se realiz el reembols,pued darm la pagin web dond hac el seguimient de mi ped
+0,a dond se realiz el reembols,se aplic automat el cupon
+0,a la direccion que me dijeron,el vendedor me dij que pod reabr la disputa.
+0,a la fech no recib el reembols de mi diner,"mi diner ha sid retir de mi banco, per no recib confirmacion."
+0,a la hor de pag me indic que pong el numer de la tarjet con sald,"por favor, denm el numer de la line de ayuda."
+0,a nombr de qui pong el pag,cual es el nombr de la compañ del envi
+0,a part de contest las pregunt de segur,com ocup de las tas
+0,"a pes de hab leid algun de las pregunt que resuelv dudas, no entiend muy bien el estad de mi ped",el vendedor dic que el pag no ha sid recib despues de hab finaliz el pedido. ¿qu pued hac
+0,a que direccion electron pued envi los document par verif,no pued envi los mensajes.
+0,"a que se refier en condicion ""reformado"" en lug de nuev","no hay opcion de talla, ¿pued dej un mensaj en su lug"
+0,a que corre le escrib par pod expon si cas,que escrib en el numer de cuent en el formulari de western union
+0,a que corre le escrib par pod expon si cas,com escrib una reseñ
+0,a que corre mand la imag,no pued sub una imag jpeg.
+0,a que hor se encuentr trabaj atencion al client,no pued envi un email al servici de atencion al cliente.
+0,a su vez me indic que hic un report,esta es la primer vez que les hag un pedido.
+0,aun no he recib el reembols,aun no he recib el numer de seguimiento.
+1,aun no he recib el reembols,no he recib mi reembolso.
+0,abri disput por que el movil que recibi se reinici,el vendedor no tien el product por el que he pagado.
+1,abri una disput hac unos dias,abrir disput hac un mes y aun estoy esper respuesta.
+1,abri una disput que ya esta finaliz per no he recib el reembols,no he recib el reembols despues de que finaliz la disputa.
+0,"abri una disputa, lleg a un acuerd con el vendedor y no a cumplido. que hag",abri una disput y no obtuv respuest del vendedor.
+0,abru una disput porqu recib un product rot,no recib una respuest por un ped que tien una disput escalada.
+0,abru una disput porqu recib un product rot,he abiert una disput porqu el asunt no ha sid segu por bastant tiempo.
+0,aca en corre de chil me inform que fue devuelt a chin,que pas si el articul fue devuelt porqu ten altos impuest de aduan
+0,"acab de hac un pedido, ?dond consegu el recib",quier hac el seguimient de un pedido.
+0,acab de realiz la transferent interbancari de un ped,com pued cancel un product que acab de hac
+0,acab de realiz un pag,deb contact con el vendedor antes de realiz el pag
+0,acab de recib un corre electron de que mi orden ha sid cancel por falt de pag,com pued cancel un product que acab de hac
+0,accidental presion un boton par confirm el ped y los product no los he recib,com pued recib la inform de seguimient par los product que he ped
+0,acept tarjet oce pay debit,acept tarjet discov
+0,acept o rechaz ofert del vendedor,la proteccion del comprador es un servici dad automat o hay una tarif
+0,acerc de mi cuent tien algun problem,teng un problem con mi seguimient de envio.
+0,acord con el vendedor el reembols y no ha hech nad,que pas si el tiemp se acab y el vendedor no ha envi mi ped
+0,actual teng una disput abiert y la verd es que no se que pas he de segu a part de ahor,teng una tarjet de credit business que no se acepta.
+0,adem es un sobr pequeñ en el cul no podi cab el articul compr,viv en china. ¿es gratuit el envi
+0,adem me solicit una cantid de informacion priv que no pued suministr por seguridad.,la cantid de la factur no es la mism que la de los pedidos.
+0,dond entro par hac mi ped de anill,no pued encontr el boton par hag el seguimient de mi pedido.
+0,agent personal por favor,"cargando. por favor, espere."
+0,"ah okay, ose que es un problem general",teng un problem con mi envio.
+0,"ahi esta el numer de pedido, con el pued ayud",com hag un pag con el reembols de un ped
+0,ahor deb sal y no `pued continu,cuant deb pag por impuest y tas de aduan
+0,ahor deb sal y no `pued continu,com pued hac un ped que no quier pag ahor
+0,ahor en vendedor no respond mis mensaj,que teng que hac cuand un vendedor no respond mis emails
+0,ahor le vuelv a pregunt,no estan envi el product ahor
+0,"ahor me aparec los ped com par volv a realizar, ya la vez en transit",por que no veo los ped en la pagin web
+1,ahor me lleg mensaj que mis ped son reten en aduan,no he recib mis productos. reten por la aduana.
+0,"ahor me pid que contact con usted y que cambi la opcion a ""ya no quier el producto"". cuand eso no es verdad. ver mensaj envi y recib",mis compr fueron envi a un numer que no es el de mi casa.
+0,ahor recib un mensaj dic lo siguiente:,por que recib emails dic que mi ped esta cerr
+1,ahor ten un corre electron dond dec que mi ped ha sid cancel porqu yo no he pag,he recib un email dic que mi ped ha sid cancel por falt de pago.
+0,ahor veo que el cobr me lo han hech a mis dos tarjet,"si cancel un ped que he hecho, ¿me devuelv tod el diner"
+0,ahor veo que el cobr me lo han hech a mis dos tarjet,"en mi ped pon que no he pagado, per si lo he hecho."
+1,"ahora, me lleg los comprobantes, per no pued acced a esa cuenta, ya que no cre un usuario, entonc no teng clav de acces","intent acced a mi cuenta, per no me deja."
+0,al escrib mi nombr y apell los rechaz por no ser ingles,el vendedor rechaz mi peticion de reembolso.
+0,"al final ayer transport el coch con una gru a un tall y con una simpl diagnosis multimarca, archiv que les he envi a el y estan colg en http://tinypic.com/",realiz un ped par ser envi con fedex y el proveedor lo envi con chin post.
+0,"al final ayer transport el coch con una gru a un tall y con una simpl diagnosis multimarca, archiv que les he envi a el y estan colg en http://tinypic.com/","cuand recib el email con mi ped hag clic en el, per dic que no pued verlo."
+0,"al final he ten que cancel el pedido, graci por nad",no pued ver el ped por el que he pagado.
+0,"al final he ten que cancel el pedido, graci por nad",necesit cancel los ped que he hecho.
+0,al final se pas las ofert y no pued realiz mi ped porqu vuestr sistem de pag no avanza. ya he compr mas vec con esa tarjet sin problem y veo que a med que pas el dia van baj las existent disponibles.,he ped cos y quier sab cuand las van a enviar.
+0,"al moment de compr un producto, este no me dej me dic que teng que apel",intent registr y me dic que el servici no esta disponible.
+0,"al pag con mi tarjet de credit me dic ""error de pago""",me gust pag la mit con una tarjet de credit y la otra mit con otra tarjet de credito.
+0,al parec hay una confusion con un vendedor,me gust envi una consult sobr compr al vendedor.
+1,"al pon el nombr de la call me indic que deb pon en ingles?, no pued cambi el nombr",el nombr de la call esta mal. ¿qu pued hac
+0,al realiz una compr no dej pag con ningun tarjet nuev que agreg,pued pag con una tarjet brasileñ
+1,al realiz una compr no dej pag con ningun tarjet nuev que agreg,no pued pag con tarjeta.
+0,al usar el cupon y pag me cancel sol el ped,por que me dio error al hac el ped aqu
+0,algui me pued llam par habl de mis ped que no aparec en ningun siti,"tien un numer de contact al que pued llam par habl sobr mi disputa, por favor"
+0,"algui pued ayud dese sab que suced ahora, mi apelacion fue aprobada, me envi mi ped o ya perdi la ofert",me gust que mis product se envi a una nuev direccion.
+0,"algui pued ayud dese sab que suced ahora, mi apelacion fue aprobada, me envi mi ped o ya perdi la ofert",no hic un pedido. algui uso mi tarjeta.
+0,algui pued habl conmig,se pued pon vuestr equip de segur de cuent en contact conmig
+0,algui pued habl conmig,pued comunic conmig en rus
+0,algui usa mi direccion de corre electron,quier envi mi list de dese a alguien.
+0,algun agent que sea una person,que hag si una person sig cambi el preci
+0,algun agent que sea una person,se ha hech una transaccion en mi tarjet de credit por part de otra persona. ¿qu pued hac
+0,"algun problem con las camiset futbol sd eibar, madrid, barcelon",hay un problem con mi cuenta.
+0,algun person pued atend,por que me han cobr un ped de otra person
+0,algun opcion no funcion,com funcion los event
+0,algun opcion no funcion,com funcion los cupon descuent
+0,algun opcion no funcion,no hay transferent bancari en las opcion de pago.
+0,ampli el tiemp de proteccion y sig sin envi,"me han cobrado, per el ped sig pendient de pago."
+0,anoch estuv habl con una chic que se llam kayl,dic que no se vend a este pais.
+0,anoch hic un ped y lo cancel,"hic un pedido, per me lo cerraron."
+0,"anterior ya lo he hecho, llam a mi banc y me dic que tod esta normal, per me sal nos pued realiz el pag","si cancel un ped que he hecho, ¿me devuelv tod el diner"
+0,antes de nad buen dias eva,deb confirm los product antes de que lleg
+0,antes me deci que no teni permis par entrar. ahor result que si ha entrad en la pagin,"si congel el pedido, ¿qu hac par que me devuelv el diner"
+0,antes si se podi verd,"si pid a vari vendedor diferentes, ¿mis ped se envi junt"
+0,antes ten benefici en mi cuent y ahor ya no,por que he puest cos en mi cest y ahor se han ido
+0,antes ten una list de dese muy larg,com añad product a mi list de dese
+0,antes vivi en chin y mi cuent tien identific mi pais com chin,quier que mis product se envi a mi agent en china.
+0,antes vivi en chin y mi cuent tien identific mi pais com chin,"quier envi mi product a china, per no la pued encontr en la list de paises."
+1,anul un ped y no he recib el reembols en la tarjet,no he recib el reembols y mi ped ha sid cancelado.
+0,anul un ped y no he recib el reembols en la tarjet,"ped cancel por el vendedor, y no he recib el dinero."
+0,aparec com cerrado.. per no se me ha devuelt el diner,"he pag mi pedido, per el pag no ha ten exit y me cobr el dinero."
+0,aparec com orden entregada. per a mi no me han entreg nada. que hago?',"dic que me han envi un email, per no se adonde."
+0,aparec que me estan devolv el pag y yo quier los product trat de apel y no logr adjunt los pdf con la info que me pid,los product recib dej de funcion y el vendedor no responde.
+1,aparec un mensaj de error,"necesit pag mi pedido, per sig recib un mensaj de error."
+0,aparec un tiburon en medi de una carretera...,quier un trabaj en una compañia.
+0,aparec un tiburon en medi de una carretera...,por que en mi ped aparec la disput cerr
+0,apel tarjet de credit,com pag con tarjet de credit
+0,aqu oras me atiend una person,hic una compr y no me respondio.
+0,asi realic per no se hac el carg y los product sig aparec com pendient y me mand un error,el proveedor sub el preci de los product y requier un pag extra.
+0,asi teng una apelacion en curs,reembols en una cuent diferente.
+0,asi teng una apelacion en curs,cuant tard en termin una disput
+0,atencion al client no funcion,no pued envi un email al servici de atencion al cliente.
+1,atencion al client personal porfavor,telefon de atencion al cliente.
+0,atend un ejecut en line,com dej un mensaj en mi ped
+0,aun asi no pued realiz mi compr,com pued asegur mi compr
+0,aun cuand estan cancel,pag los product cuand pid o cuand los entreg
+0,aun esper respuest del vendedor,com pued denunci mal conduct del vendedor
+1,aun no he recib el reembols de mis ped,"no he recib el reembolso, ¿qu pued hac"
+0,aun no he recib los reembols,"he recib los articulos, ¿com confirm"
+0,"aun no he recib respuest sobr verificacion del pag realizado, hoy hac ocho dias lo realice.",mi ped fue envi per no lo he recibido.
+0,aun no me han reembols mi diner despu de la resolucion de la disput y ha pas casi un mes,abrir disput hac un mes y aun estoy esper respuesta.
+0,aun no se nad respect a un product no recib,he recib un product defectuoso.
+0,"aunqu sig interes en el producto, per tras siet mes sig sin recibirlo, cre que lo mejor es un reembols",por que sig recib un error cuand intent pag mis cos
+0,automat la app a utiliz los cupon que ten par realiz sin que yo pud quitarlos.,he cambi la tarjet que use par el pedido.
+0,"aviso: no has alcanz un acuerd con el vendedor. el import del reembols ser el de la propuest anterior. present recurs si no estas satisfech con el result de la disput o con la atencion que te hem prestado, pued pres",dond pued ver el result de la disput
+1,ayudem a volv a configur mi lengu al ingles.,"pued cambi mi pagin a ingles, por favor"
+0,ayudem a volv a configur mi lengu al ingles.,quier cancel y volv a pedir.
+0,ayer despu de chat con un compañer .... muy bien por ciert .....,por que el vendedor requier cost de envi par un product con envi gratuit
+0,"ayer hic el ped y hoy lo he vuelt a realizar, me preocup que me lo aprueb dos veces.","ya he pagado, per aparec com que no lo hice."
+0,"ayer hic el ped y hoy lo he vuelt a realizar, me preocup que me lo aprueb dos veces.",no he recib el ped y el numer de seguimient que me dieron esta mal.
+0,ayer hic un ped lo pag per el corre no es el mio me equivoqu,"hic el pedido, per ellos sub el preci de repente."
+1,ayer hic un ped per ha sid rechaz por usted,"hic un pedido, per me lo cerraron."
+0,ayer hic unas consult x un paquet que no a lleg,no pued localiz el ped que hice.
+0,ayer realic el deposit de mi ped por medi de merc de pag deposit en un oxxo,com hag un pag con el reembols de un ped
+0,ayer realic el deposit de mi ped por medi de merc de pag deposit en un oxxo,he pag con doku. ¿por que el estad del ped sig en pendient de pag
+0,ayer recib el ped y no vien en su embalaj original,"pague, per no recib el pedido."
+0,ayer se me solicit un papel justif de corre de dond esta el pedido. ahor que hag,ahor me ha lleg un email que dic que mi ped ha sid cancel porqu no pague.
+0,ayer y ahor mism otra vez,pued envi la mercanc otra vez si ya he pag
+0,ayud de una person en español,com pued contact a una person de atencion al client via telefon
+0,ayud de una person en español,no pued abrir una disputa. necesit su ayuda.
+0,bien lo envi a su mism direccion,pued registr otra cuent con la mism direccion de email
+0,boton par agiliz el tramit,dond esta el boton de chat ahor
+0,buen dia hay vari ped cerr que a un no han lleg,elimin los ped cerrados.
+1,"buen dia, estoy dand seguimient a la solicitud de hac vari dias, el vendedor no responde.",el vendedor no me responde.
+0,"buen dia. estoy dand seguimient a mi solicitud de hac vari dias. el vendedor no ha respondido, usted pued ayud",el proveedor no ha respond a mis emails.
+0,buen dia escrib par realiz el seguimient de un ped,com introduzc el numer de seguimient al devolv un ped
+0,buen dia quier sab com el status de mi reembols de una compr que no se autoriz,com se usa paypal com metod de reembols
+0,còmo cambi la tarjet que esta por defect,que es direccion por defect
+0,por que el boton de seleccion pais no aparec,por que no funcion el boton de la cest
+0,que hag cuand he recib un product que no he ped,he recib un product defectuoso.
+0,que suced cuand un ped se cierr,por que no se muestr mi ped
+0,"ya realic mi pag el dia de ayer, que proced","en el siti web dic que mi ped ya ha sid entregado, per no lo he recibido."
+0,a que hor se desocup su sistem,dic que no se vend a este pais.
+0,"abri disput de un pedido, el acuerd fue que teng que devolv el product par consegu el reembols",teng que pag comision par un reembols
+0,abri una cuent y ahor me aparec bloqu,hay cupon descuent en mi cuent ahor
+0,"abri una disput me pid mand pruebas, ya las mand per aparec que no las recib","ya he pagado, per aparec com que no lo hice."
+0,abrir disput sobr falt de ped,no soy capaz de abrir una disputa.
+0,abrir una disput y contact una disput es lo mism,es impos abrir una disputa.
+0,acab de entrar en mi perfil,escrib mal el nombr en mi perfil.
+0,"acab de habl con correos, hast que el envi no llega, la respons es del que envi",com pued cancel un product que acab de hac
+0,acab de ped el ped per me equivoqu en la tall,el vendedor me envi la tall equivocada.
+1,acept pag con tarjet vis o mastercard,acept vis de debit
+0,adond estas mi perfil?????? viej,com edit mi perfil de miembr
+0,aduan me pid un recib de compr,el vendedor me pid ahor mas diner por el producto.
+0,aduan me pid un recib de compr,com recib un reembols de webmoney
+0,agir con que confianz pued ped un product,es *** un vendedor de confianz
+0,ahh es que teng una apelacion,pued usar paypal par pag ya que no teng una tarjet de credit
+0,"al dec que no lo queri cancelar, porqu es el que me gusta, me remit un nuev corre al dia siguient en el que me pon que esta fuer de stock. ¿no les parec tod esto incorrect",me parec que tod los product son public engañosa.
+0,"al moment de pagar, me sal que hub un error, per al revis el estad de cuenta, si se me descont el diner",me pregunt el estad de mi disputa.
+0,algui par q contest mis pregunt en español,algui uso mi direccion de email par abrir una cuenta.
+0,aparec com cancel la compr,"hic el pag por boleto, per aun aparec com pendient de pago."
+0,aparec el ped com cancel,el ped no es com estab descrito.
+0,aun no he ten respuest de mi apel,no he ten notici de mi disput escalada. ¿qu pued hac
+0,"aun no me dan respuesta, y necesit segu hac unas compr",me pregunt si hay algun respuest par mi disput escalada.
+0,aun no pued realiz un pag,com pued pag tod mis ped con un pag
+1,aun no se nad de la disput,"abri una disput y, por ahora, nada."
+0,ayer hic un ped esta pag y no sal en mis ped,"necesit cancel un pedido, per no ha opcion par cancel en mis pedidos."
+0,ayer hic un ped esta pag y no sal en mis ped,com pued pag mis ped en un sol pag
+0,ayer realic un ped y no esta en mis ped,com pued pag mis ped en un sol pag
+0,buen dia necesit sab si las disput que tuv que realiz ya tien el reembols realiz,quier sab si mi ped ha sid realizado.
+0,"buen tarde, result que la proteccion de el product se termin per no me lleg un corre avis que estab a punt de termin y aun no he recib el producto.",devolv el product y no he recib el reemplaz o reembolso.
+0,"buen tard ,sig sin recib mi ped","necesit pag mi pedido, per sig recib un mensaj de error."
+0,buen tard por que no se ha acredit mi pag,por que se ha devuelt mi paquet
+1,"buen tardes, hac mas o men cuatr mes realic dos compr a dos tiend compr unos reloj y esta es la fech y no he recib el pedido. ya fui a",pag mi ped y no lo he recibido.
+0,"buen tardes, hic un ped y el carg ya fue hech a mi tarjet de credito, per me lleg un corre dic que el pag no fue aceptado, quier mi reembols",hic un ped antes y el ped no se complet porqu el vendedor fue suspendido.
+0,"buen tardes, me envi un product y no me lo han envi y han elimin un seguimient de dhl y ahor me han puest otro...tod eso cuand me he quej",me han dad un numer de seguimient par product con destin en otro pais.
+0,buen tardes. no se registr mi pag,com comprueb si mi pag se efectu
+0,buen si ves en mis mensaj,com consig mi reembols si no recib respuest a mis peticion
+0,"buen dias quier cambi la direccion par prox envios, per me dic que teng que pon en ingles.",soy incapaz de cambi mi direccion de email. dic que ya esta en uso.
+0,"buen dias, me dic que teng una apelacion abierta, ya les contest y les mand lo que me pedian, no entiend porqu si no lleg a pagar, cancel el ped y compr otros guantes, cuand lo vi no me fij y pens de otro que usted cancel y estoy p",no he recib el ped y el numer de seguimient que me dieron esta mal.
+0,"buen dias, realic dos compr el dia viern",el proveedor cambi el preci inmediat despues de que realic el pedido. ¿qu pued hac
+0,"buen dias, si el ped no me lleg me devuelv el diner","si pid ahor con ups, ¿en cuant dias lleg el articul a mi pais"
+0,cambi direccion de email por error,confirm los articul por error.
+0,caduc la confirmacion de entreg,"no pued cambi la direccion de entrega, ¿qu hac"
+0,cancel mi ped per me lo rechaz que pued hac,"hic un pedido, per me lo cerraron."
+0,cobr un ped que no exist y envi el email com me dijeron y no recib respuest,ya he pag el ped y aparec com ped sospechoso.
+0,"com cambi el cost de eur a dolar estadounidens una vez ya realiz la operacion, es dec deb asi figur en mis ped pues en argentin deb abon impuest aduaner enus dollars",soy incapaz de cambi mi direccion de email. dic que ya esta en uso.
+1,com cambi la direccion de envi de un ped,com cambi la direccion de entreg
+1,com cambi la direccion de envi de un ped,com cambi la direccion de envi
+0,com cambi la direccion de envi de un ped,com cambi las estrell de la valor
+0,com cambi numer tarjet vis,pued funcion mi tarjet vis de regal
+0,com cancel una orden ya envi,ya he pag el ped y aparec com ped sospechoso.
+0,com cancel una orden ya envi,com cancel una disput abiert
+0,com consig un reembols sin disput,teng una disput sin resolver.
+0,com consig un reembols sin disput,pued confi en un vendedor sin reseñ
+0,com es el proces de reembols,"he envi una apel par tarjet de credito, ¿com consult el proces"
+0,com es la transaccion de diner si es segur compr cuant tiemp tard el product en lleg que osa con aduan,"he pag una vez, per el diner cobr es com si hub pag dos veces."
+0,com seguimient mi product,no acept tarjet business o comerciales.
+0,com seguimient mi product,acept paypal com opcion de pag
+0,com funcion las disput,me gust habl con algui del equip de disputas.
+0,com gener la orden en la pag,com consult la pagin web en rus
+0,com hag par rastr pues automat el sistem activ la recepcion y la valoracion y yo aun no recib el ped,teng una disput y la compañ no ha hech nad par resolv el problema.
+0,com les mand el comprob del pag,"pued hac vest personalizados? si les mand una foto, ¿pued hac igual"
+0,com me deposit el diner de reembols,no recib un reembols de mi dinero. han pas dos meses. ¿cuand devolv el diner
+0,com pago. no me lo permit,"hic el pag por boleto, per aun aparec com pendient de pago."
+0,com pued cambi el medi de pag,"hic el pago, per aparec com no pagado."
+0,com pued hac el vendedor subi el preci y me dij que iba a hac la devolucion per hast ahor no devuelv el pag,"pag el ped y el vendedor me escrib que no queda, ¿qu hac"
+0,com pued pag tod los articul junt,tod los ped vien junt
+1,com pued pon en contact con un vendedor,com pued pon en contact con el vendedor
+0,com pued quit los ped recib de mi list de ped,los ped multipl se envi com uno
+0,com pued quit los ped recib de mi list de ped,com pag tod los ped de mi cest de la compr
+0,com pued rastr mi product,pued recib mi product con entreg contr reembols
+0,com pued sab si mi pag ya fue evalu y acept,com pued sab si mi product fue envi
+0,com pued sab si mi product fue envi,me gust sab por que mi ped fue cancelado.
+1,com recuper mi contraseñ,com pued restablec mi contraseñ
+0,com recuper un ped cancel por error,confirm por error ped recibido.
+0,com recuper un ped cancel por error,quier cancel el pedido. hay un error.
+0,com sal la cuent movil desd la pagin con un naveg,quier reactiv la cuenta.
+0,com se abre una disput de unde un ped cancel,com abro una disput por un ped complet
+0,com se cuant demor mi ped,mi ped se entreg en mi domicili
+0,com vuelv a pag mi ped,com pued pag tod mi ped con un pag
+0,compr dos pulser inteligent y una de ellas no funcion ha dej de funcion,intent usar el codig de descuent y hoy no funciona.
+0,compr dos pulser inteligent y una de ellas no funcion ha dej de funcion,teng una tarjet de debit y no tien fech de caducidad.
+0,"compr telefon elephon en tiend stor y el envi a demor demasiado, lo mas probabl es que no teng el product",pued confirm que el product esta en stock
+0,"compr un articulo, per el vendedor indic un preci mas baj del real y la aduan de mi pais lo regres",el proveedor sub el preci de los product y requier un pag extra.
+0,"compr un articulo, per el vendedor indic un preci mas baj del real y la aduan de mi pais lo regres",com ver el preci de un product
+0,compr un movil me lleg tard per cuand lleg no funcion el microfon,"dic que me han envi un email, per no se adonde."
+1,con algui que no sea un robot,no quier conect a un robot.
+0,con qui me pued comunic par que me den una solucion,com hag par que el ped se me envi rapid
+0,contact con un oper español,com pued contact con un vendedor si ya no esta list
+1,contact un represent,necesit habl con un representante.
+0,corre electron par contact,recib un email de que un nuev corre ha llegado.
+0,"cos que nunc habi suced en un envi ,cobr impuest .",nunc recib un reembolso.
+0,cre que un vendedor me ha engañ,se me ha cobr por algo que no he pedido.
+0,cual es el codig de segur,esta regul la segur de los product
+0,cual es la via par pag con el diner del reembols que usted me hic,el vendedor me dij que cancel el ped par devolv el dinero. ¿qu pued hac
+1,cuand en localizacion de ped me muestr esto !! proces de fondos!! que signif,que signif el estad proces de fond
+0,cuand le doy pag sol me da el preci de un articul,com ver el preci de un product
+0,cuand me dan un numer de rastre de dhl per no se encuentr el rastre porq,"me han cobrado, per el ped sig pendient de pago."
+0,cuand me van a devolv mi reembols,me da un error cuand intent comprar.
+0,cuand me van a devolv mi reembols,por que no recib un reembols por el ped
+0,cuand pag me sal error en el pag,necesit inici sesion en la cuent de doku cuand hag el pag
+0,"cuand seleccion tod los productos, el cost del envi quier que sea el de un sol product",com pued pag tod mis product en la cest de la compr en un sol pag
+0,"cuand seleccion tod los productos, el cost del envi quier que sea el de un sol product","cuand compr un product en la cesta, el preci de promocion no esta disponible."
+0,cuand termin el period de fiestas. veo que el proveedor no envi mi ped y tampoc me contest,"el vendedor descont el precio, per cuand hag el ped veo el preci anterior."
+0,cuand yo abri las disput,me cobr en mi tarjet de credit cuand yo nunc les he compr nada.
+0,cuand yo abri las disput,devuelv las moned cuand cancel un ped pag por adelant
+0,cuant tiemp deb esper por el reembols,por que deb esper a que el vendedor respond mi disput
+1,cuant tiemp demor un reembols,en cuant tiemp pued recib el reembols
+0,cuant tiemp tard una apel,cuant tiemp dur una disput
+0,cuant tiemp tard una apel,"he envi una apel par tarjet de credito, ¿com consult el proces"
+0,deb hab una form facil no pued perd mas tiemp en cambi unos simpl numer,hay una form de que la entreg sea mas rap
+0,deb de pag los gast de envi de un product que mand a repar,cuant deb pag por impuest y tas de aduan
+0,deb esper el reembols par realiz un nuev ped,"he cancel mi pedido, ¿cuand pued esper un reembols"
+0,deb hac uno por uno de cad articul del ped o habr algun form de abrir disput por el total del ped,he pag con webmoney. ¿por que el estad del ped sig siend pendient de pag
+0,decidi que devolv el diner y todavi estoy esperando.,abrir disput hac un mes y aun estoy esper respuesta.
+0,desd el mes de abril solicit un ped,quier hac el seguimient de un pedido.
+0,dese comunic con la oper ash,cual es la situacion con mi disput
+0,"dese usar otra, porqu la anterior la anul",pued envi la mercanc otra vez si ya he pag
+0,disculp teng dud de porqu mi ped no ha sid envi,por que mi ped ha sid cerr por no envi
+0,dond cambi mi tarjet de pag,com cambi mi direccion de email
+0,dond cambi mi tarjet de pag,recib un mensaj de error cuand hag mi pag con tarjet de credito.
+0,dond esta mi ped y aparec com entreg,"ya realic mi pago, per aparec com no pagado. ¿qu hag"
+0,dond figur la tarjet con la que pag,he cambi la tarjet que use par el pedido.
+0,dond pued inici chat,no pued inici sesion en mi cuenta. ¿qu pued hac
+0,dond pued ver cuant tiemp teng de garanti,dond pued ver el numer de seguimient
+0,dond pued ver cuant tiemp teng de garanti,pued pregunt sobr el tiemp de proces
+0,e anul un ped por error,he hech un pag duplic por error.
+0,e cancel un ped por error com pued restaur,confirm el ped por error.
+0,"efect ,pro me aparec la tarjet y no dese utiliz mas",he envi fot de mi id y de la tarjet de credito. ¿qu va a pas
+0,eh cancel un ped por error,"mi ped fue cancel por sospechas, ¿com recib un reembols"
+0,el diner ya me fue devuelt hac una seman,com me devuelv el diner
+1,el formulari de disput no funcion,el formulari de disput no funciona.
+0,el formulari de disput no se visualiz correct,"he rellen el formulari de disputa, ¿com recib mi reembols"
+1,el numer de seguimient no funcion,mi numer de seguimient nunc funciona.
+0,el otro dia compr y anul un ped ahor esta en estad finaliz per esta cobr en mi tarjet de credit,"se me ha cobr el pago, per no esta reflej en el pedido."
+0,el pag es en mi tarjet de debit y si cuent con recursos. de hech anoch hic algun compr sin problem,com pag mis compr con debit
+0,el ped esta incomplet,"el ped fue cerrado, el sistem esta pendient de hac el reembolso."
+0,"el ped esta pag y aparec com no pagado, por favor solucion",he pag y mi ped ha sid cancel por email.
+0,el ped lo hic ya hac mas de un mes,abrir disput hac un mes y aun estoy esper respuesta.
+0,el ped recib no es el acord,no he recib el cupon.
+0,el product no va a lleg y no me dej abrir disput,el sistem no me dej pagar.
+0,el proveedor envi un paquet con un sol numer de ped par dos client distint,cuant tiemp teng par devolv un paquet
+0,el recib el pal selfi inalambr y yo lo pedi con cabl,que pas si el ped no tien seguimient y no lo he recib
+0,el recib el pal selfi inalambr y yo lo pedi con cabl,es lo mism el numer de ped y el numer de seguimient
+0,el rembols tien un error del tip de cambi,cual es el tip de cambi del dol par hoy sobr la compr de produccion en su pagin
+0,el tiemp de proteccion termin,cuant tard el tiemp de proces
+0,el tiemp de proteccion termin,pued acort el tiemp de proces
+0,"el vendedor aprob la cancelacion, cuand recib el reembols",el vendedor no quier aprob el reembolso.
+0,"el vendedor aprob la cancelacion, cuand recib el reembols","el vendedor acept reembols el dinero, ¿com lo recib"
+0,el vendedor cerr la disput,el vendedor me dij que pod reabr la disputa.
+0,el vendedor dic que no lo he pag,me pregunt cuand recib el articul que he pagado.
+0,el vendedor dic que no me lo van a pag,el vendedor me dij que no es posibl envi el articulo.
+0,el vendedor me dic que gener orden de compr y ellos cambi el preci entonc pued compr,"que hac entonces, si no pued contact con el vendedor"
+0,el vendedor me pidi cancel mi ped por problem de mensajeri a mexic,se me reembols si el vendedor no consig envi mi ped
+0,el vendedor me pidi cancel mi ped por problem de mensajeri a mexic,el vendedor me envi el paquet por envi gratuit en lug de ems.
+0,el vendedor no contest los mensaj,com le envi mensaj al vendedor
+0,el vendedor no contest mi mensaj,com respond al mensaj del vendedor
+0,el vendedor no me envi el product y me ha bloqu,el vendedor me pid ahor mas diner por el producto.
+0,"el vendedor qued en envi las piez par arregl una pulser que compr hac unos meses, porqu veni con defect de fabrica, aun no pas nad que deb hac",una disput abiert hac tiempo. el vendedor no dic nada.
+0,el vendedor se nieg a darm la garant de un product estrop,pod darm el nombr y la direccion del vendedor
+0,el vendedor subi el preci despu de realiz el ped y no acept que cancel el ped,el vendedor no respet el pedido.
+0,el vendedor tien un preci me ha cobr mas car,el vendedor ya no tien stock del articulo.
+0,en agost he hech un ped con sesion de invit,"no he hech un pedido, per he recib un email de pago."
+1,en el estatus de mi ped dic entreg y a mi no me ha lleg nad,"en el siti web dic que mi ped ya ha sid entregado, per no lo he recibido."
+0,en esper de recepcion que signif,que signif pendient de pag
+0,"en la descripcion del mismo, vien un reloj grand impres en la lamin (en el rest de laminas, no, sol esa) pens que era una marc de agu o simil",com pued pag tod mis product en la cest de la compr en un sol pag
+0,en mi disput el ped ya fue recib si cancel la disput le dari el diner al vendedor,"abri una disputa, per el vendedor la rechaz y se qued con mi dinero."
+0,en mi disput el ped ya fue recib si cancel la disput le dari el diner al vendedor,que pas si el vendedor aprueb la disput
+0,entiend que llev mas de cuatr mes esper el product,estoy esper a que se complet la mediacion. ya llev meses.
+0,"entiend ,entonc par retir ese diner cual seri las opcion que teng",no hay transferent bancari en las opcion de pago.
+0,entiend entonc que sol teng derech a recib el reembols y no el ped entonc,"teng que compr el producto, per no entiend las tallas."
+0,envi el product y a ferr la disput,teng una disput y la compañ no ha hech nad par resolv el problema.
+0,es que no entiend que esta pas con el pag,com se que esta es una compañ legitim
+0,"es que no he recib mis pedidos, y los ped hac mas de un mes",puls accidental el boton de confirm el ped y no he recib los productos.
+1,es que no pued entrar ami cent,no pued entrar en mi cuenta.
+0,es que no teng el ped,"pag un ped y esta congelado, ¿qu teng que hac"
+0,es un numer de apelacion,recib un email de notif si mi ped es cancel
+0,es verd que estoy oblig a pag con los gast de envi par devolv el product,he recib un email muy ofens de un comerci con el que estoy en disputa.
+0,esas pregunt no solucion mi problem,teng un problem pag con mi tarjet de credito.
+0,"esas respuest no contest mi pregunta,","quier cancel una disput escalada, except las respuest del vendedor."
+0,"ese ultim mensaj lo envi por error, no hay disput finaliz porqu ni siqu se ha abierto.","confirm accidental la recepcion del paquete, el paquet ni siqu ha llegado."
+0,"esq en mi celul me aparec que esta por lleg mi product y en la pagin me dic que aun no llega, cual es el mas real",el vendedor promet que si cancel la disput me har el reembolso. ¿pued confi en el
+0,esta finaliz y no contest,he hech un pag onlin y ha finalizado.
+0,estab trat de abrir una disput per dic que el period caduc,"estoy intent pag con una tarjet vis de credito, per siempr dic que ha fall el pago."
+0,estab trat de abrir una disput per dic que el period caduc,no soy capaz de abrir una disputa.
+0,estab trat de abrir una disput per dic que el period caduc,com pued extend el period de recepcion del envi
+0,este vendedor esta engañ a los usuari,pued dec si este vendedor es buen o no
+0,esto es una estafa. si no resuelv mi problem acud a pon una denunci,no pued pon una nuev direccion.
+0,esto es una estafa. si no resuelv mi problem acud a pon una denunci,teng un problem con mi ped en aduana. ¿pued envi una copi de mi factur
+0,esto es una estafa. si no resuelv mi problem acud a pon una denunci,com consult mi denunci de abus sobr valor
+0,estoy en disput con un vendedor,estoy busc un vendedor al que ped antes. ¿pued ayud
+0,estoy en esper de una respuest por mi problem,mi ped esta aun en esper de ser enviado.
+0,estoy esper mi apel,por que estoy esper la respuest de la otra part
+0,estoy esper respuest a los antecedent envi a jos,aun estoy esper mi reembols parcial por este pedido.
+0,estoy esper respuest del vendedor par no cancel el ped sin que me cambi la tall,abrir disput hac un mes y aun estoy esper respuesta.
+0,estoy esper respuest del vendedor par no cancel el ped sin que me cambi la tall,estoy esper el reembols de un producto.
+0,estoy esper una respuest,estoy esper mi reembolso. ¿cuand lo tendr
+0,estoy habl con una maquin,estoy ten problem con un vendedor. ¿qu pued hac
+0,estoy habl con una maquin,no estoy satisfech con el result de la reclamacion.
+0,"estoy intent abrir disput de ped que teng que devolver, per al darl a envi no lo envi",quier sab cuant teng que esper si estoy en españa.
+0,estoy intent hac un rat realiz unos pag y teng un mensaj de,"estoy intent respond un mensaje, per el program no acept texto."
+0,estoy perd mi tiemp y diner con usted,mi tiemp de proces ha termin y quier extenderlo.
+0,"eva, sos una porqueria!!!!",com respond a una valor
+0,"eva, sos una porqueria!!!!",quier cancel una compra.
+0,fui al corre a retir mi paquet y dic que lo devolv a orig,dic que mi cuent no existe.
+0,"gracias,.. he pag un ped por paypal, per el vendedor me dic que aun no se acredita.",el vendedor no tien el product por el que he pagado.
+1,habl con atencion al client,me gust habl con un agent de atencion al cliente.
+0,hac dias el vendedor ampli la proteccion del ped,acept la solucion del vendedor por error.
+0,"hac unos dias tuv problem par realiz mi compra,m solicit que envi unos document par verific mi ident y ya los envie, es por eso que quier sab si ya esta resuelt el problem",cuand teng que verific mi ident al hac un ped
+0,"hac unos mes compr unas pulser de ambar, lleg y al mes una se rompio, se abri sola, al parec veni mal de fabric ya que se gir solo, le mand un mensaj al vendedor y me dij que me enviari ambar par yo arregl le dij que si era pos",no quier que mi email se muestr al proveedor.
+0,"hac unos mes compr unas pulser de ambar, lleg y tod las fot de una sol cancion, una sol foto, un par de veni mal de fabric y que se gir en solitario, el mensaj un mensaj al vendedor y me dij que me envi ambar par yo arregl",com pued pon tod los product en la cest par ten una sol orden de pag
+0,hag lo que me dic per no me da solucion ya que no me carg las fot,com pued acced a/le las valor que los vendedor me han dad
+0,hag tod los pas per no me dej dic error,"cuand recib el email con mi ped hag clic en el, per dic que no pued verlo."
+0,han ampli el tiemp de proteccion vari vec,pued hac vari list de dese
+0,han pas ya vari dias y necesit compr los vest,quier compr vari product del mism vendedor.
+0,hast ahor no me ha lleg a mi banc,"mi ped fue cancelado, per me cobr del banco."
+0,hay que abrir una disput por cad articul,me gust abrir una disput por el pedido.
+0,"he anul el ped y me lo han cobrado, y quier recuper la compr",quier sab por que me han cobr de mas por mi pedido.
+0,he cambi la tarjet dond tien que hac la devolucion,"he confirm la recepcion por error, ¿qu pued hac"
+0,he cancel un ped per ya me han descont el diner del banc,"pag por un pedido, per fue cancelado. el vendedor no ha devuelt el dinero."
+0,he cancel un ped y me lo han cobr,por que me han cobr dos vec un ped
+0,he cancel un ped y no he recib el reembols,"ped cancel por el vendedor, y no he recib el dinero."
+0,"he compr un movil hac un mes y ha dej de funcionar,s apag solo, no consig encend",he compr vari cos y cad articul tien un vendedor diferente. quier compr tod de un sol vendedor.
+0,he compr un product y quis anul y no pued,compr un product y no he recib un email de confirmacion.
+0,he compr un product y quis anul y no pued,ped un product y nunc lo recibi.
+0,"he compr vari vec divers product desd china, per ahor que quier compr un telefono, me doy cuent que ya no envi a mi pais",ahor me ha lleg un email que dic que mi ped ha sid cancel porqu no pague.
+0,"he compr vari vec divers product desd china, per ahor que quier compr un telefono, me doy cuent que ya no envi a mi pais","en el siti web dic que mi ped ya ha sid entregado, per no lo he recibido."
+0,he ido al articul en cuestion y no veo com le deb hac ya que esta cerrada...,ya he pag el ped y aparec com ped sospechoso.
+0,he pag per no sal en mis ped,pued usar mis cupon en ped combin
+0,he perd el numer de ped,he perd mi contraseña.
+0,he perd el numer de ped,no he recib el ped y el numer de seguimient que me dieron esta mal.
+0,he recib mi ped per esta incomplet,"he ped productos, per no he recib mi pedido."
+0,he solicit una cancelacion,"he usad una mastercard, per no funciona."
+0,he trat de hac una compr desd hac una seman per cuand voy a apag me sal que no pued,"hic una compra, per la tiend no existe."
+0,"he verific vari vec mis datos,",por que he pag dos vec
+1,he vist en mi ped que lo han mand de nuev al remitent,la inform de seguimient sugier que los product han sid devuelt al remitente.
+0,he vist en mi ped que lo han mand de nuev al remitent,no pued respond al mensaj que he recib de mi vendedor.
+0,he vist en mi ped que lo han mand de nuev al remitent,com pag tod lo que hay en mi cest de una vez
+0,hic otras compr en esta tiend y fue muy bien,mi tarjet de credit ha sid rob y algui la ha usad par compr algo en su tienda.
+0,hic un ped com invit y no pued acced,com inici sesion com invit
+0,hic un ped com invit y no pued acced,hic un ped y el vendedor me pid cancelarlo.
+0,hic un ped de vari items y los estan envi por separado. com teng que hac par que se envi tod el ped en un paquet,"si cancel un ped que he hecho, ¿me devuelv tod el diner"
+0,hic un ped hac vari dias,no hic un pedido. algui uso mi tarjeta.
+0,hic un ped lo pag y ahor me envi ese mensaj,"hic un pedido, per no me dieron ningun numer de seguimiento."
+0,hic un ped y no a venido. hac una seman,hic un ped y pague. quier cancelarlo.
+0,hic una transferent com les comprueb que ya esta pag,es esta una compañ en la que pued confi
+0,"hiz dos ped y uno no llego, conf uno que lleg per el vendedor me dic que ya los recibi los dos","en el siti web dic que mi ped ya ha sid entregado, per no lo he recibido."
+0,"hiz dos ped y uno no llego, conf uno que lleg per el vendedor me dic que ya los recibi los dos","que es ""esper a que el vendedor conf la cuenta"""
+0,"hol , el lun hic un ped y no me ha lleg ningun corre de respuesta, por favor avisar. felip",hic un ped y pague. quier cancelarlo.
+0,"hol , el vendedor cancel mi pedido, com recuper mi diner","si cancel mi pedido, ¿pued dec cuant tard el reembols"
+0,"hol , en mi orden en las busqued me sal muy poc result en cambi en otros sal muchis no se dond esta el problem",com cambi el idiom en mi cuent
+0,"hol , en mi orden en las busqued me sal muy poc result en cambi en otros sal muchis no se dond esta el problem",por que el ped no se muestr en mi cuent
+0,"hol , necesit sab com pag mi ped",quier sab si mi ped fue exitoso.
+0,"hol buen dia, aun no recibi mis ped",quier borr tod mis pedidos.
+0,"hol buen noches, com cancel mi ped",com cancel mi membres
+0,"hol buen noches, necesit envi el movil par la garanti de reemplazo, me gustari sab a dond lo mand y que teng que inclu de datos...",me he registr y necesit los cupon que mencion la web.
+0,"hol buen noches, necesit envi el movil par la garanti de reemplazo, me gustari sab a dond lo mand y que teng que inclu de datos...",me envi un email par hac sab que el diner ha sid reembols
+0,hol buen dias han hech una restriccion a mi cuent aleg abus de proteccion del comprador,pued cambi mi cuent de comprador a una cuent de vendedor
+0,hol com pued sab con que tarjet pag mi ped,pued pag mi ped con mi tarjet de credit brasileñ
+0,hol com pued sab con que tarjet pag mi ped,me gust sab com pued cancel mi pedido.
+0,"hol estoy interes en un ped de chin y me pid pag a traves de western union y me dan un nombr y un telefono. desd western union me dic que este es un servici par envi diner entre gent que se conoce, no a un desconocido. ¿es fiabl esta",cuand se me reembols el diner de un ped cancel
+0,hol estoy viend el seguimient de un ped y observ que la direccion de envi no es correct,"el codig de seguimient es incorrecto, asi que no pued sab dond esta mi pedido."
+0,hol estoy viend el seguimient de un ped y observ que la direccion de envi no es correct,quier hac el seguimient de un pedido.
+0,"hol eva, que quier dec que el ped esta pendient de envi","he pag un pedido, per dic que sig pendient de pago."
+0,"hol eva, que quier dec que el ped esta pendient de envi","mi ped fue congel despues de la verif del pedido, deb a que el vendedor esta siend investigado."
+0,"hol hac unos dias reclam que en mi list de ped no se encontr una compr que realice, me dijeron que lo estudi per no veo result",quier que vari ped se me envi juntos.
+0,"hol hac unos dias reclam que en mi list de ped no se encontr una compr que realice, me dijeron que lo estudi per no veo result",me gust que mis product se envi a una nuev direccion.
+0,hol la devolucion del import pag no me ha sid reembols en mi cuenta. agradeceri me reintegr el import de mi ped,mi ped fue cerr porqu la cuent del vendedor ha sid inhabilitada.
+0,hol los he molest en much vec par pag y no pued hac,quier habl a otros vendedor sobr los product que he comprado. ¿com pued hac
+0,"hol me acab de mand este mensaje:hola, por favor, tramit nuev la disput par pod realiz el reembols de tu pedido, ya que hem recib la devolu por tu parte. a la esper de tus notici aprovech la ocasion par enviart un saludo.","por favor, cambi la direccion de entrega, me he equivocado."
+1,"hol me dic que esta caduc par abrir disputa, y no lleg a chil quier mi reembols",no he recib mi ped y quier que me devuelv mi dinero.
+0,hol me gust sab com calific a vendedor,me gust sab las valor de un vendedor.
+1,hol mi ped aun no a lleg y ya deb de estar hab lleg,mis product no han llegado.
+0,hol necesit a un asesor,necesit algo par ped un reembols
+0,hol necesit cambi la direccion de envi,necesit la direccion del vendedor par la oficin de correos.
+0,hol proces de fond llev mas de dias,que signif tiemp de proces restant
+0,hol que pued hac si me cancel mi ped y ya esta pag !!!,por que mi pag esta siend verific otra vez si ya ha sid confirm
+1,"hol quier cambi una tarjet de credit que he dad de baj y dar de alta una nueva, graci",quier cambi los dat de la tarjeta.
+1,hol quies sab si mi paquet esta en viaj,quier sab si mi ped fue enviado.
+0,hol quis sab sobr mi ped,com hag par obten inform sobr mi ped
+0,"hol soy jos valdes, me podr ayud con el product que no llego.",no pued hac el seguimient de mis product con el codig que me dio el vendedor.
+0,"hol soy jos valdes, me podr ayud con el product que no llego.",recib el product y me devolv el dinero.
+0,hol teng apelacion. per cambi mi form de pag por merc libr y transferent bancari . tendr algun problem par confirm mi pag,com envi mi pag a traves de transferent bancari
+0,"hol teng dos ped con error en la entreg ala aerolinea, desd hac vari dias. ¿qu pas con ellos",hub un error al pag con visa. ¿qu pas con el sistem
+0,hol teng un problem con mi pag,teng un problem con el exit de mi pago.
+0,"hol teng vari ped que ya pas de la fech de entreg y los vendedor sol sig dic que espere, hay ped que tien demasi tiemp vencidos, quier un reembolso.","si hag vari pedidos, ¿cuant vec teng que pag por el envi"
+0,"hol teng vari ped que ya pas de la fech de entreg y los vendedor sol sig dic que espere, hay ped que tien demasi tiemp vencidos, quier un reembolso.","pag tod mis pedidos, per los vendedor dic que no he pagado."
+0,hola! teng problem con tres vendedor,teng problem con los adjuntos.
+0,hola! teng problem con tres vendedor,teng problem par correg mi direccion de envio.
+0,"hola, ¿com pued recib la factur de cad ped",pued hac un ped com invit
+0,"hola, a dia de hoy no he recib ningun notici de l ped",no he recib reembols del numer de pedido.
+0,"hola, al trat de realiz un pag me marc error",sol quier realiz el ped de un product instantaneamente.
+0,"hola, al trat de realiz un pag me marc error",hay un fall al hac el ped y no hay mensaj de error.
+0,"hola, al trat de realiz un pag me marc error",recib un mensaj de error: contraseñ incorrecta.
+0,"hola, es que teng vari ped a punt de venc el tiemp de proteccion",cuant teng que esper despues de que salg el paquet
+0,"hola, hac mas de un mes que les envi el telefon estrop y todavi no he recib nada. les envi la fot del resguard de corre com le habi envi","les he envi una copi de mi tarjet de credito, mi estracto, mi identidad. ¿qu va a pas"
+0,"hola, intent dej una valoracion de los ped y al principi marc las cinc estrell de que estoy muy content y al dar a dej valoracion , me sal otras estrell y letr amonton y me es impos dej valoracion porqu no pued por much qu",no estoy satisfech con el servici que he recibido. ¿com pued dej una valoracion
+0,"hola, la proteccion esta a punt de termin y no he recibi mis productos, no pued abrir disput",pued abrir una disput despues de confirm que he recib un ped
+0,"hola, la proteccion esta a punt de termin y no he recibi mis productos, no pued abrir disput",com pued pag tod mis product en la cest de la compr en un sol pag
+0,"hola, la tarjet que estoy usand dej de serv en poc dias. quier sab si pued ped el reembols a otro numer de tarjeta, en cas que teng un reembolso. gracias.","estoy esper que hag el reembols en mi tarjeta, ¿cuant tard"
+0,"hola, me gust obten factur de mi ped",me gust hac el seguimient de mi pedido.
+0,"hola, me gust sab cual es su mejor sensor de humo? cual me aconsej compr par pequeñ departament par uso hoteler por favor","me gust envi un email, ¿cual es su direccion"
+0,"hola, no he recib una carter que compr y no encuentr el numer de envi",no estoy satisfech con el servici que he recibido. ¿com pued dej una valoracion
+0,"hola, no me grab las valoraciones, entro a valor calif al product , per no me grab la valoracion",com pued acced a/le las valor que los vendedor me han dad
+1,"hola, no pued acced a mi cuent",ya no pued acced a mi cuenta.
+0,"hola, no pued acced a mi cuent",com pued desactiv mi cuent
+0,"hola, porqu me sal lo sent no pued particip en esta promocion.","lo sentimos, en estos moment no hay nad dispon par pedir."
+0,"hola, porqu me sal lo sent no pued particip en esta promocion.","lo sentimos, su busqued no coincid con ningun producto."
+0,"hola, pued pag con tarjet vis en cuot desd chil",cuand pued pag mi ped con tarjet vis de debit
+0,"hola, que signif proces de datos?... he recib mi ped per no pued borr el ped de mi mis ped","en el siti web dic que mi ped ya ha sid entregado, per no lo he recibido."
+0,"hola, que signif proces de datos?... he recib mi ped per no pued borr el ped de mi mis ped","mi ped fue cancelado, per he recib cos de esta pagina."
+0,"hola, quer sab cual es el import total (la suma) de tod los ped que he hech",no pued encontr los ped que he hecho.
+0,"hola, quier acord el envi de un ped de una sol tiend",quier hac el seguimient de un pedido.
+0,"hola, quier cancel una apel y pag con otro medi de pag",me gust pag la mit con una tarjet de credit y la otra mit con otra tarjet de credito.
+0,"hola, quis sab com cambi mi corre",com pued cambi mi pais
+1,"hola, segu esos pas per la pagin me tir ""error"" cuand pago.",me da un error cuand intent comprar.
+0,"hola, segu esos pas per la pagin me tir ""error"" cuand pago.","me han cobrado, per el ped sig pendient de pago."
+1,"hola, segu esos pas per la pagin me tir ""error"" cuand pago.",recib un mensaj de error cuand hag mi pag con tarjet de credito.
+0,"hola, teng un problem con ped realiz y que no figur en mi list de ped por lo que no pued hac el seguimient",teng un problem con el seguimient de mi pedido.
+0,"hola, teng un problem con ped realiz y que no figur en mi list de ped por lo que no pued hac el seguimient",teng un problem con mi pedido. el vendedor es un mentir y un estafador.
+0,hola. ¿cuant tiemp tard en devolv un ped anulado? graci,en cuant tiemp ser recib el pag por transferent bancari
+0,hola. he hech un ped y no se lo que pas con el. tambien poc he recib una notif de compr,pued abrir una disput despues de confirm que he recib un ped
+0,hola. llev mas de dos mes intent que me repar o cambi el producto. no lo consigo. cre que me estan tom el pelo.,pued hac que el product lleg mas rap
+0,hola. me ha lleg un ped delic rot (un difusor de cristal),el ped aun no ha llegado.
+0,hola. no se pued pagar. coloc los dat de la tarjet y aparec q no cuent con sald o que los dat son incorrect,quier pregunt si tod los vendedor son de chin o hay otros vendedores.
+0,hola. quier cambi unos numer por otros que hag,por que sig pid que inici sesion cuand hag el pag
+0,hola. yo solicit la cancelacion del ped y el vendedor lo cancelo. per a los dias se me ha efectu el cobr,"se me ha cobr el pago, per no esta reflej en el pedido."
+0,hola. yo solicit la cancelacion del ped y el vendedor lo cancelo. per a los dias se me ha efectu el cobr,el vendedor se ha esfum y no pued encontrarlo.
+0,hola..quier cambi mis dat por los dat de una empres,com pued cambi los termin de la disput
+0,hoy e ido al banc y no me han hech el ingres,por que me cobr dos vec en mi cuent del banc por el ped
+1,hoy revis el estatus de los pag aparec com que no se ha pagado... per el carg a mi tarjet de credit ya fue hecho.,"hic el pago, per aparec com no pagado."
+0,"ido mi producto, me inform de corre de chil lo siguient",oficin de corre diplomat
+0,intent busc en mi cuent el numer de ped per ya no lo veo.,com sac algo de mi pedido? ya no lo quiero.
+1,"jod macho, quier habl con un ser human","quier habl con una persona, no con un robot."
+0,la direccion de envi es errone,no teng direccion par la devolucion.
+0,la local de mis ped no es la correct,pued cambi la tall de mis articul ped
+0,la mercanc recib no es la acordada.,el vendedor envi la mercanc a otro pais.
+0,la mercanc recib no es la acordada.,me pregunt si tard much en lleg la mercancia.
+0,la pagin no me activ los recl,me he registr y necesit los cupon que mencion la web.
+0,la pagin no me dej rastr el ped,no me dej escrib en la caj de text del mensaje.
+0,la proteccion a la compr ya finaliz,com compr los product en la cest de la compr
+0,"la seman pasada, pus una reclamacion y teng que devolv el ped",teng una disput y la compañ no ha hech nad par resolv el problema.
+0,le he escrit much vec y jamas me ha respond el mensaj,por que el pag ha sid hech dos vec en mi tarjet de credit
+0,le envi mensaj al vendedor y no me resuelv nad par que me devuelv el diner,"me hic el reembolso, per recib el pedido. ¿com devuelv el diner al vendedor"
+1,le envi mensaj al vendedor y no respond,el vendedor no respond mis mensajes.
+1,le realic seguimient y esta entreg per no a mi direcciòn,"en el siti web dic que mi ped ya ha sid entregado, per no lo he recibido."
+1,"llav al corre de chil y los product fueron devuelt al vendedor, los product los pedi que lleg a mi cas y nunc paso, sol fueron envi a la sucursal de corre per no lleg a mi casa. ahor quier la devolucion del diner",los paquet fueron devuelt a china.
+0,"llav al corre de chil y los product fueron devuelt al vendedor, los product los pedi que lleg a mi cas y nunc paso, sol fueron envi a la sucursal de corre per no lleg a mi casa. ahor quier la devolucion del diner",pag los product y no estan en la list del pedido.
+0,llev dias trat de que me respond o bien sea por el ped o la plat y ningun de las dos,la marc o el tip de su tarjet no se admiten.
+0,llev esper desd marz,estoy esper el reembols de un producto.
+0,llev seman sin pod pag por error en el pag,pued cancel un ped sin pag
+0,lo cancel cuand estab verific el pag,"por que dic ""tu sesion anterior ha expirado"" cuand hag el pag"
+0,lo he hech en repet ocasion,"quier compr un vest hech a medida, ¿com lo hag"
+1,lo he recib bien per el product no funcion,"he recib el pedido, per los articul no funcionan."
+0,"lo he recib hoy, y estoy muy satisfech quis cambi mi valoracion per no se com deb hac","ya he pag mi pedido, per aparec com que aun no he pagado, ¿qu hac"
+0,lo que pas es que ya cancel un ped porqu el vendedor a tard en proces mi ped y quis sab cuant tiemp se tard en recib el rembols del pag,cuant tard el proveedor en proces mi ped
+0,lo que pas es ya hic un reclam,por que mi pag es menor de lo que yo pag
+0,lo que recib de part del vendedor es ningun respuest y de part de la empres dhl es que el numer de ped no exist o a cambi el numer de ped por favor ayudam,por que estoy esper la respuest de la otra part
+0,lo teng en mi list de ped y no me da la opcion de borr,teng que cog mi compr en la oficin de corre
+1,los product que ped ya lleg al pais de destin hac una seman quis sab cuand lleg a mi domicili,me gust sab cuand lleg mi pedido.
+0,per la disput acept o rechaz,adjunt par abrir disputa.
+0,"me acab de aprob una apelacion, y me marc error a la hor de pag",no pued registr y no hay mensaj de error.
+0,me aparec en mi cel que esta por lleg,por que el sistem me dic que no pued particip en esta promocion
+0,me aparec error al pag,quier pag al vendedor.
+1,me aparec error al pag,me da un error cuand intent comprar.
+0,me cobr de mas en servici de envi ..pag por ups y me lo envi por ems que es mas barat,por que cobr antes de la entreg
+1,me devuelv el diner al cancel el ped,"si cancel un ped que he hecho, ¿me devuelv tod el diner"
+1,me dic que el sistem esta ocup,el sistem no esta disponible.
+0,me dic que me mand un mail y nunc me escrib,me gust borr un pedido.
+0,me dic que recibi el product per en realid no me a lleg nad,"el vendedor no tien los zapat que pedi, per no me contesta."
+0,me dic que recibi el product per en realid no me a lleg nad,ahor me ha lleg un email que dic que mi ped ha sid cancel porqu no pague.
+0,me dic que recibi el product per en realid no me a lleg nad,el vendedor promet que si cancel la disput me har el reembolso. ¿pued confi en el
+0,me encuentr en apelacion cuant tiemp demor,en cuant tiemp pued recib el reembols
+0,me entiend que por error human conf que mi ped lleg per no ha lleg,acab de recib un email dic que mi ped ha sid cerr por no pagar. per he pagado.
+0,me envi paquet vaci,es posibl combin mis paquet en uno
+0,me envi paquet vaci,com pued hac el seguimient de mis paquet envi por corre
+1,me envi un corre dic que el pag se ha realiz con exit per unas seman despues me mand otro dic que se ha cancel el envi porqu el pag no se ha hecho.,"he hech un ped con ustedes, per mi ped ha sid cancel por fall en el pago."
+0,me envi in mensaj que dice:,me envi la tall equivocada.
+0,me envi in mensaj que dice:,"me he dad cuent de que mi ped dic pendient de aceptacion, ¿qu quier dec"
+0,me estaf su vendedor y no me dan solucion,el vendedor dij que no hab stock y me pid cancelarlo.
+0,me estan pid la factur de compr,la cantid de la factur no es la mism que la de los pedidos.
+1,me gustari habl con algui,que algui me ayud a resolv mi disputa.
+1,me gustari habl con algui,necesit habl con los represent de ventas.
+0,me gust habl con algui en español,mi pagin esta en español.
+0,me gust hac una consult sobr cuand abrir una disput,me gust deten una disput escalada.
+0,me ha cerr el vendedor la disput,mi ped fue cerr porqu la cuent del vendedor ha sid inhabilitada.
+0,me ha cerr el vendedor la disput,el vendedor me envi la tall equivocada.
+0,me ha llam el repartidor de dhl,el vendedor me ha embaucado.
+0,me han comunic el cierr de una disputa. per sol aparec cerr dos articul y el rest no,"el ped esta cancelado, per no me han reembols el dinero."
+0,me han comunic el cierr de una disputa. per sol aparec cerr dos articul y el rest no,"abri una disputa, per el vendedor la rechaz y se qued con mi dinero."
+0,me han mand un mensaj que me han entreg un paquet,me han embaucado. ¿qu pued hac
+0,me he confund y no me dej hac,me pregunt si pued regat mis compr y com hacerlo.
+0,me he confund y no me dej hac,estoy intent pag con una tarjet vis y no me dej pagar.
+0,me he confund y no me dej hac,"no me dej hac clic en ""abr disputa""."
+0,me he confund y no me dej hac,su email no me dej darm de baja.
+0,me he puest en contact esta tard con vosotr per cre que por error os he dad un numer de ped errone,"he hech un ped con ustedes, per mi ped ha sid cancel por fall en el pago."
+0,me he puest en contact y ellos me dic que habl con vosotr,me he cas y mi apell ha cambiado.
+0,me podri ayud con la apelacion que present teng un inconvenient,teng un problem con el pago.
+0,me podr dec por favor que pued hac par sab dond esta mi ped,que pued hac si mi paquet esta reten por aduan
+0,me pued atend una person,por que me han cobr un ped de otra person
+1,me pued atend una person,"quier habl con una persona, no con un robot."
+1,me pued ayud con unos envi q no he recib,no he recib la mercancia.
+1,me pued ayud con unos envi q no he recib,no he recib mi pedido.
+0,me pued inform com pued gan diner trabaj desd cas,com pued hac que me devuelv el diner
+0,me pued comunic con otra person,mi mercanc ha sid envi a otra persona.
+0,me pued dar algun respuest clar de porqu no han lleg mis cos,me pued dar un numer de telefon
+0,me pued dec cuant tiemp teng par abrir disput despu de hab recib el product,cuant tard el tiemp de proces
+0,me pued dec cuant tiemp teng par abrir disput despu de hab recib el product,cuant tiemp necesit el proveedor par proces mi ped
+0,me pus en contact con usted el mes pas,"he hech un ped con ustedes, per mi ped ha sid cancel por fall en el pago."
+0,me sal que teng un error,com se si teng que pag impuest en un envi
+0,met una apelacion me pued ayud,me gust deten una disput escalada.
+1,mi cuent ha sid desactiv y un paquet fue envi a la direccion incorrect,el paquet ha sid envi a la direccion incorrecta.
+0,mi disput no aparec en mi list de ped en disput,no pued encontr en mi list de pedidos.
+1,"mi ped aparec com entreg a otra direccion, a mi no me ha lleg",mi product ha sid entreg en otra direccion.
+0,mi ped aparec com entreg y no lo he recib,"ya he pagado, per aparec com que no lo hice."
+0,mi ped aparec com entreg y no lo he recib,no he recib el reembols y mi ped ha sid cancelado.
+0,mi ped esta reten en la aduan y no me lo dan,"lo sentimos, usted no pued particip en esta promocion."
+0,mi ped me sal en dolar y quier pag en eur,no quier pag trafic en el transporte.
+0,mi ped no entreg y quier vuelv mi dinero.,quier cancel mi ped y recib reembolso.
+0,mi ped no es com en la web,com consult la pagin web en rus
+0,mi ped no ha lleg y el tiemp de proteccion al comprador esta a punt de termin,"la proteccion del comprador ha terminado, per no he recib mi ped porqu el vendedor sigu dic que esperase."
+1,mi ped no se ha envi,el ped no ha sid enviado.
+0,mi ped se cerr en dos dias,por que me han cobr dos vec en mi cuent por el ped
+0,mi ped volvi al vendedor y no me lo mand de nuev,mi ped fue cancelado. ¿com pued lo hag de nuev
+0,"mi ped ya esta pago, per nos que tarjet use","en el siti web dic que mi ped ya ha sid entregado, per no lo he recibido."
+0,"mi ped ya esta pago, per nos que tarjet use","ya he pag mi pedido, per su estad no ha cambiado."
+0,mi problem es que me esta pid un capch par segu usand mi cuent,teng un problem con mi pedido. el vendedor es un mentir y un estafador.
+0,mi tarjet de credit es en dolar com pag eur,com pag con mi tarjet de credit
+0,mir el otro dia hic una reclam con una compañer vuestr,com cancel una reclam
+0,mir en ener compr un altavoz y no me lleg,"estoy intent hac un ped y, por algun razon, no me deja."
+0,mir en mi list de ped per no se com esta el estad de mis ped,com pued elimin los articul recib y articul pendient de pag de mi list de ped
+0,mis tarjet ya fueron revis y aprob,abri una disput y mi solicitud ya ha sid cerrada.
+0,"much gracias, sol quier que mi tarjet este segur","no pued pon mi direccion en la pagina, dic que sol se acept en ingles."
+0,"much gracias, sol quier que mi tarjet este segur",quier pag con mi tarjet bancaria.
+0,"muchisim graci antonio, he prob con googl chrom y he pod pag sin problemas. excelent trabajo. enhorabuena. salud cordial",he hech un ped y he puest la direccion equivocada.
+0,nad de esto me esta ayud,necesit la direccion de email de esta compañia.
+0,nadi me pued ayud a realiz,pued cualqu ser miembr
+0,necesit abrir disput no e recib el ped,com pued abrir disput si el ped esta complet
+0,necesit ayud con un paquet,necesit ayud con las garantias.
+0,necesit cambi la moned de eur a pes o dolar,la marc o el tip de su tarjet no se admiten.
+0,necesit cambi las pregunt secret,necesit cambi la direccion de email.
+0,necesit consult acerc de mi proces de verificacion,com reclam acerc de un vendedor
+0,necesit convers con un support,necesit un asistent humano.
+0,"necesit el enlac par hac val la garanti de mi movil, no funcion",adond voy par hac el seguimient de mi ped
+0,necesit factur de lo que he compr,dond pued ver aquell por lo que he pag
+1,necesit habl con algui,necesit habl con una persona.
+1,necesit habl con un agent que me ayud a sab com lo hag par que me solucion el problem que teng con el mobil y la compañi que me vendi el movil mediant vuestr pagin,me gust habl con un agent de atencion al cliente.
+1,"necesit habl con una persona, no una maquina.",necesit habl con una persona.
+1,"necesit habl con una persona, no una maquina.",necesit habl con atencion al cliente.
+0,necesit hac un reembols,viv en chin y necesit compr un producto. ¿es posibl hac esto
+0,necesit hac una compr,necesit una nuev contraseña.
+0,necesit hac una devolucion,necesit hac una reclam acerc de unos vendedores.
+0,necesit hac una devolucion,necesit una copi del recibo.
+0,necesit hac unas compr urgentes...,dic que mi cuent no esta autoriz par hac compras.
+0,necesit inform de mi reembols,necesit cambi la sum del reembols en mi pedido.
+1,"necesit la factur de mi compra, ¿com la consig",necesit una factur de mi compra.
+0,"necesit la factur de mi compra, ¿com la consig",com elimin un product de mi cest de la compr
+0,"necesit la factur del ped realizado, ¿dond pued encontr",com pued imprim la factur de mi ped
+0,necesit los pas a segu par hac una compr despues de un reembols,necesit una factur de mi compra.
+0,necesit mi devolucion de diner,necesit el numer de envi de mi pedido.
+1,necesit numer de rastre de mi ped,necesit mi numer de seguimiento.
+0,necesit que me envi el carrit de mi compr porqu me pid ello par pod retir del corr,los vendedor pid que realic el pag antes de envi los productos.
+0,necesit recuper mi ped,necesit sab si pued recib mi ped a tiempo.
+0,necesit sab nombr de la person que hiz un cobr con mi tarjet,"he usad la tarjet de mi abuelo, ¿deb pon tod a su nombr"
+0,necesit sab nombr de la person que hiz un cobr con mi tarjet,teng un problem pag con mi tarjet de credito.
+0,necesit soport en line,necesit pag en vari plazos.
+0,necesit soport en line,necesit cambi la sum del reembols en mi pedido.
+0,necesit hac otra pregunt en español,se ha hech una transaccion en mi tarjet de credit por part de otra persona. ¿qu pued hac
+0,necesit hac otra pregunt en español,quier pon la mit en una y la otra mit en la otra.
+0,ningun de esas pregunt contien mi inquietud,no he recib ningun confirm despues de pag mi pedido.
+0,"ningun de las anteriores, hast ahor he estad trat de resolv diplomaticamente.","hast ahora, mi ped no me ha llegado."
+0,ningun de las opcion que me muestr es mi problem,com me doy de baj de las promocion por email
+0,ningun de las respuest entreg correspond a lo que me suced,"quier cancel una disput escalada, except las respuest del vendedor."
+0,ningun de las respuest entreg correspond a lo que me suced,com pued acced a/le las valor que los vendedor me han dad
+0,ningun opcion me sirve...,el vendedor no me contesta.
+0,ningun de las opcion es,pued usar otras opcion de pag apart de tarjet de credit
+0,no cre que vuelv a compr nad mas de valor,acab de compr un product y necesit que lo envi a una direccion diferente.
+1,no e recib el reembols aun de una disput,mi reembols no ha sid recib despues de hab resuelt la disputa.
+0,no e recib el reembols aun de una disput,pued abrir una disput despues de confirm que he recib un ped
+0,no encuentr list de ped,com elimin la list de mis ped
+0,no entiend porqu me envi par apelacion,"teng que compr el producto, per no entiend las tallas."
+0,no entiend porqu no hay person que atiend esto,he recib un email dic que el ped ha sid cancel porqu no he hech el pago.
+0,no es cancelacion por favor lee bien,"no mas emails, por favor."
+0,no es disput es garanti,com pued abrir disput si el estad es finaliz
+0,no es nad de lo que pon ahi,por que el pag recib es menor de lo que yo pag
+1,no estoy de acuerd con la resolu final,no estoy de acuerd con la solucion de la disputa.
+0,no hay form de habl con una person,hay otra form de pag un ped sin usar una tarjet de credit
+0,no hay nadi par contest,hay una opcion par entreg rap
+0,no he inici sesion o no he cerr correctamente.,he cerr la ventan de chat con el equip de servici por accidente. ¿qu pued hac
+1,no he pod pag unos product,"no pued pag los productos, el pag no funciona."
+0,no he pod realiz el pag con mis tarjet americ express,com pued pag con mi tarjet de credit americ express
+0,no he pod realiz el pag con mis tarjet americ express,ya he hech el pag con boleto.
+0,no he pod solicit las cos que quier compr porqu me aparec en apelacion,las cos de vari vendedor vien en una caj
+0,no he recib el ped envi ya que se lo han entreg a otra persona. necesit el ped dentr del plaz marc per,que pas si el vendedor no acept o rechaz mi disput dentr del plaz limit
+0,no he recib el product y me dic que el vendedor ha cancel mi producto. que hag,"confirm que recib el producto, y fue por error. no he recib el product aun."
+0,no he recib el reembols,he recib el paquet equivocado. no es el mio.
+0,no he recib la cantid correct,"acab de ped un product online, per no he puest la direccion correcta, ¿qu pued hac"
+0,no he recib la cantid correct,se me cobr la cantid incorrecta.
+0,no he recib la factur,he recib la mercanc y tambien el reembols completo.
+0,no he recib mi ped y dic que a finaliz que hag,quier confirm que he recib mi pedido.
+0,no he recib mi ped y dic que a finaliz que hag,pag mi ped y no lo he recibido.
+0,no he recib mi product y no pued hac disput,mi product esta bloqu y me gust sab que pued hacer.
+0,no he recib mi reembols por cancel de orden,no he recib un reembols por la disputa.
+0,no he recib mi reembols por cancel de orden,"no he recib mi reembolso, que fue aprobado."
+0,no he recib mis facturas!!!!!!,no he recib mi reembolso.
+1,no he recib mis product,"he ped productos, per no he recib mi pedido."
+1,no he recib mis product y sal registr com recib,no he recib ningun de mis ped aun.
+0,no he recib mis product y sal registr com recib,devolv el product y no he recib el reemplaz o reembolso.
+0,no he recib nad de product y ya termin la proteccion del vendedor q pued hac,"no recib el cupon del vendedor tras hac clic en la pagin de la tienda, ¿qu pued hac"
+1,no he recib ningun notici mas sobr el estad del reembolso. hay algun razon por la que la devolu se demor tant una vez cancel el ped,mi ped fue cancel y no he recib el reembolso.
+0,no he recib respuest de mi ped,no he recib ningun confirm despues de pag mi pedido.
+0,no he ten respuest de mi apel,"pod exped mi apelacion, por favor"
+0,no lleg mi ped y no pued inici una disput,no pued inici sesion y dic que mi cuent fue desactivada.
+0,no lo que pas es que he ped dos gorr y sol me ha lleg una,que pas si el ped no tien seguimient y no lo he recib
+0,no lo que pas es que he ped dos gorr y sol me ha lleg una,me pregunt si la mercanc que he ped ha sid enviada.
+0,"no me ayud ,sig igual","me he dad de baj de su lista. sin embargo, sig recib emails."
+0,"no me acept la tarjeta, porqu dic que el credit no es suficiente... per mi tarjet es de debit","estoy intent pag con una tarjet vis de credito, per siempr dic que ha fall el pago."
+0,no me aclar de ningun manera. necesit cambi los numer de una tarjet por otra de otro banco. llev una hor y no lo se hacer. tendr que esper a que algui me resuelv el problem porqu yo no se hacerlo.,teng una tarjet de credit business que no se acepta.
+0,no me ayud a rastr unos ped,necesit hac una reclam acerc de unos vendedores.
+0,no me contest el proveedor,dond esta el mensaj que me ha envi el proveedor
+0,"no me dan respuest a mis mensajes, y por desconoc no se dond se ubic mi ped","jueg al juego, ¿por que no me dan moned"
+0,no me dej acced a nad,"no me dej hac clic en ""abr disputa""."
+1,no me dej envi la disput ni carg la imag,no me dej hac una disput sobr el pedido.
+0,no me dej envi la disput ni carg la imag,"confirm accidental la recepcion del paquete, el paquet ni siqu ha llegado."
+0,no me fue util tu respuest,mi ventan de mensaj no me dej escrib una respuest a un vendedor. ¿por que pas esto
+0,no me ha lleg aun el ped,"quier cancel el pedido, pero, aun asi, los vendedor lo enviaron."
+1,no me ha llegado. se perdio? com pued recuper mi diner,"hast ahora, mi ped no me ha llegado."
+0,no me han reembols el diner,com pued pag con diner reembols
+1,"no me import esperar, per he envi un mensaj al vendedor y no me respond",el vendedor no me responde.
+0,no me permit hac el pag me pid identificacion per no me permit envi,"me han dad mi numer de seguimiento, per no pued hac el seguimiento."
+0,no me sal lo de la basur y ya teng el product,recib el product y me devolv el dinero.
+0,no pued abrir disput porqu entre com invit,por que no pued abrir una disput
+0,no pued efectu el pag de los product que teng en mi carr de compr,mis compr fueron envi a un numer que no es el de mi casa.
+0,no pued entrar a mi cuenta.,com pued cambi mi cuent
+1,no pued entrar a mi cuenta.,no pued inici sesion con mi cuenta.
+1,no pued entrar en mi cuent no estoy recib el email,no pued entrar en mi cuenta.
+0,no pued entrar en mi cuent no estoy recib el email,"ya no estoy en el negocio, ¿pued suspend mi cuent"
+1,no pued esper a que acab el period de reembols,quier que me devuelv el dinero. no pued esper tanto.
+0,no pued hac nad con la disput,"pued facilit algun inform sobr ** co., ltd."
+1,no pued hac seguimiento!!!,"estoy intent hac el seguimient del paquete, per no puedo."
+0,no pued pag con mi tarjet,cuand pued pag mi ped con tarjet vis de debit
+1,no pued pag con tarjet,no pued pag con tarjeta.
+0,no pued porqu me ha bloqu,com pued contact porqu mis transaccion han sid cancel
+0,no pued segu mi compr,pued hac compr al por mayor
+0,no pued usar mi cupon y me da la sensacion de que este tip de public con los cupon es sol una estafa. asi es,me dic que mi direccion de email es incorrecta.
+0,no pued visualiz mis ped en mi list de ped,quier elimin tod en mi list de pedidos.
+1,no quier chat con una maquin,"quier habl con una persona, no con un robot."
+1,no quier habl con una maquin,quier habl con un humano.
+1,no quier habl con una maquin,necesit habl con un representante.
+1,no recuerd mi contraseñ,no recuerd la contraseña.
+0,no se comun este retras por motiv de fiest y con antel al envi del ped dec anul y se me denieg aun no hab mand el producto. no quier el product y dese el reembols del import,cuant se tard en actualiz el preci del product
+0,no se comun este retras por motiv de fiest y con antel al envi del ped dec anul y se me denieg aun no hab mand el producto. no quier el product y dese el reembols del import,quier una factur con el nombr del producto.
+0,no se cuant diner teng de mis devolu y no pued pag mi ped con ese diner,recib mi diner de vuelt si se cancel el ped
+0,no se cuant diner teng de mis devolu y no pued pag mi ped con ese diner,uno de mis ped fue cancel por el vendedor. ¿com pued recib mi diner de vuelt
+0,no se los compr al mism vendedor,com pued hac multipl ped del mism vendedor par que se envi junt
+0,no se me cancel un product,se me devolv el cupon
+0,no se por que mi paquet pon envi cancel,por que en mi ped pon proces pag
+0,no se usar el formulari de disput,el boton de envi en el formulari de disput no funciona.
+0,no se usar el formulari de disput,que escrib en el numer de cuent en el formulari de western union
+0,no teng los codig de mis ped,com elimin la list de mis ped
+0,no teng numer de ped per lo an cobr,mi ped fue envi per no lo he recibido.
+0,no teng vincul ningun tarjet pued compr sin vincul,por que no pued compr con mi tarjet de prepag temporal
+0,no vien la opcion de disput,de dond vien este envi
+0,no voy a pod realiz mas compr,com encuentr compr anterior
+0,"no, lo siento, algo fall y no soy yo, no falt nada. bien no podr hac la compra. si pud consult a algui o averigu el fall se lo agradeceria. si me pued mand la solucion a mi corre mejor. salud y hast luego.",he hech mi ped y no lo he recibido.
+0,numer de ped que no encuentr,com encuentr los product que admit cupon select
+0,o me respond o me devuelv el diner,"no me devuelv mi dinero, ¿qu pued hac ahor"
+0,o val con mi propi cuent bancari,"mi ped fue cerrado, per el diner fue cobr de mi cuent bancaria."
+0,o val con mi propi cuent bancari,com cierr sesion con mi cuent
+0,oper a trav de una tarjet virtual,pued pag con una tarjet de banc chin
+0,"otra vez lo mismo, no pued acced a mi cuenta,",pued transfer fond a otra cuent
+0,otra vez mas de los mism,quier que devuelv el diner de los product a otra tarjeta.
+0,oye teng pendient un reembols y necesit sab que pas,que pas despues de que un ped sea congel
+1,p eso no me contest quier habl con un human no con una maquin,necesit habl con un humano.
+1,p eso no me contest quier habl con un human no con una maquin,me gust habl con algui antes de comprar.
+0,"pag un articul en oxxo, y en mis ped aparec que aun no he pag",ya he pag el ped y aparec com ped sospechoso.
+0,par que me apoy y hast la fech no he obten respuest posit,"he envi los document par la apelacion, per no hay respuesta."
+0,pasam con una person normal con la que me pued solucion el problem,hay proveedor con los que pued hac ped a med
+0,ped envi a direccion mal,el ped deb ser enviado.
+1,ped pag cancel necesit el reembols,mi ped fue cancel y no he recib el reembolso.
+0,ped recib sin problem ok,pued dej valor sin ningun ped
+0,ped reembols cuand finaliz el tiemp de proteccion al comprador,carg extra al comprador.
+0,per aparec com si ya me hub lleg a la direccion de destin,"ya he pagado, per aparec com que no lo hice."
+0,per aun no me lleg mi ped,"hic un pedido, per me lo cerraron."
+0,per aun no me lleg mi ped,"el ped esta cancelado, per no me han reembols el dinero."
+0,per el vendedor me dij que confirm ped recib y no tien tiemp de proteccion,el vendedor dij que no hab stock y me pid cancelarlo.
+0,"per el vendedor no me reembols el dinero,","he pag mi pedido, per el pag no ha ten exit y me cobr el dinero."
+0,per es que debi lleg hac mas de dos mec,"necesit el product muy pronto, per pon que el tiemp de proces es de ** dias."
+0,per la cantid es mayor en dolar,por que me han cobr la cantid dos vec en mi tarjet de credit
+0,per necesit envi mis dat personal,por que tard tant en envi mis articul
+0,per no se que tall ped,"estoy intent ped un vestido, per no me da a eleg ningun talla."
+0,per no teng vincul ningun tarjet pued compr sin vincul,"no teng tarjet visa, ¿com pued compr"
+0,per no teng vincul ningun tarjet pued compr sin vincul,por que no pued compr usand mi tarjet de credit
+0,per si me hic el descuent en la tarjet que hag,"si hag un ped hoy, ¿lo recib sobr el ***"
+0,per teng que pag uno por uno,hic un ped dos vec y quier cancel uno.
+0,per ya negoci con el proveedor,mi ped fue congel ya que el proveedor esta suspendido. ¿qu pued hac
+0,podri chequ el estad del reembols de mi ped,com comprueb el estad del ped
+0,por equivoc conf la lleg de unos ped,"hic unos pagos, per no aparec en los pedidos."
+0,por error cancel mi ped,por que mi ped esta congelado? ¿mi ped lleg a mi o volv
+0,por eso dese un reembols,com recib un reembols por merc pag
+0,por esta razon no me a lleg mi product,el vendedor me pid ahor mas diner por el producto.
+0,por esta razon no me a lleg mi product,pued ayud a busc el product en esta pagin
+0,por este ped que ya pag y no se acredit a la cuent del vendedor,por que la valor que he dej no se muestr en la pagin de valor del vendedor
+0,por favor aun no me lleg los pedidos. hast cuand teng que esper,cuant teng que esper par una mediacion
+0,por favor e toc una tecl por equivocacion,"por favor, llam par hac pedido."
+0,por favor en q moned estan los product,"pus product en la cesta, per no los pued encontrar."
+0,por favor que la maquin dej de responder............,vendedor que se nieg a respond mis emails.
+1,"por favor, necesit habl con un agente.",me gust habl con un agent de atencion al cliente.
+0,por que deb hac,com cancel mi ped despues de hac
+0,"por que en la oficin de envi locales, no me sab dar cuent de los ped envi por chin post ordinary small packet plus",los product fueron devuelt a chin por la agenci de transportes.
+0,por que no se ve reflej el pag del oxxo de mi ped,"el period de proteccion del comprador de mi ped se acaba, ¿qu pued hac"
+0,por que yo si compr un movil en españ y coj una garanti cuand teng un problem lo teng que envi a poloni con los consecuent gast que ello conllev por no habl de el tiemp que tard,por que el pag recib es menor de lo que yo pag
+0,por que yo si compr un movil en españ y coj una garanti cuand teng un problem lo teng que envi a poloni con los consecuent gast que ello conllev por no habl de el tiemp que tard,por que mi pag es menor de lo que yo pag
+0,porqu no contest en vez de pon un robot,por que teng que pon la inform de la tarjet otra vez
+0,present un problem de mercanc,teng un problem al pag onlin con mi tarjet de credito.
+1,proteccion del comprador,que es la proteccion del comprador
+0,pued conect nuev con barbi,es esta una compañ en la que pued confi
+0,pued cancel un ped envi,pued cancel un ped
+1,pued habl con un agent,pued habl con un human
+0,pued pag con la tarjet de otro titul,pued pag con una tarjet de banc chin
+0,pues llev casi dos mes par que me atiend una garanti y no me hac cas el vendedor,el vendedor me dij que cancel el ped par devolv el dinero. ¿qu pued hac
+0,qu e dic que la ha ped y que aparec mi direccion de envi,el vendedor dic que el pag no ha sid recib despues de hab finaliz el pedido. ¿qu pued hac
+0,que no recib el ped,he recib algo que no he pedido.
+0,que pas si me qued mal la direccion de entreg,que pas si no quier envi mi extract par la verif
+0,que pas si pag un dia antes de que se cancel el ped,que pas si un ped se muestr dos vec en mi cuent
+0,"que pued hacer, ya que el prim dia que se utilizo, le sal much bol y la tel era de muy mal calid",parec que no pued hac pedidos.
+1,que signif esto..tu ped se cancel automat si el vendedor no lo envi en un dia,que pas si el vendedor no envi mi ped antes del tiemp de proces
+0,que signif tu ped se cerr en,por que el ped no se muestr en mi cuent
+0,que signif url del articul,necesit una factur del ped por el que he pagado.
+1,queri habl con comercial,quier habl con un humano.
+1,quier abrir una disput porqu el vendedor ha cancel el ped,me gust abrir una disput por el pedido.
+0,quier cambi el domicili de entreg de mi ped,necesit cambi el nombr de mi negocio.
+0,quier cambi una tall de un pantalon,quier cambi la puntuacion en un producto.
+0,quier cancel mi cuent,"quier cancel mi pedido, per las mercanc han sid enviadas."
+0,"quier compr unas alfombr con un vendedor y le he ped precio,per com hag par pag",le envi un email al vendedor. ¿com leo la respuest y com se cuand respond
+1,quier contact con un agent,quier contact con un humano.
+0,quier contact par ayud,quier la direccion de email par pon una reclamacion.
+0,quier devolv mi ped,quier envi mi ped a china. ¿es posibl
+0,"quier empez a realiz algun compras, per he ten problem con pag con mi tarjet",quier pag con mi tarjet bancaria.
+0,quier habl con una person,quier elimin una apelacion.
+1,"quier habl con alguien, no respuest fabric",necesit habl con un humano.
+1,quier habl con un agent por favor,necesit habl con un representante.
+1,quier habl con un oper,quier habl con el vendedor.
+1,quier habl con un oper,necesit habl con una persona.
+0,quier pag por merc pag,por que he pag con merc pag per mi ped dic pendient de pag
+1,quier pag tod junt por favor,"quier pag mis ped en ""pendient de pago"" tod juntos, per no se como."
+0,quier sab com pued obten una factur de un futur ped,me he registr com afili y quier obten el codig de afili o el bann de promocion.
+0,quier sab en q moned estan los preci ya q compr en uruguay,quier sab por que teng un carg en mi tarjet de credit antes de recib los pedidos.
+0,quier sab por que dice: waiting for pick up,quier sab cuant teng que esper si estoy en españa.
+0,quier sab segur en q moned estan los preci par uruguay en dolar american o pes uruguay,pued pag en mi moned local
+0,quier sab cuand lleg mi ped,quier mi ped mas rapidamente.
+1,quis habl con un agent,necesit habl con un agente.
+1,quis habl con un agent,quier habl con un humano.
+1,quis habl con un agent,necesit habl con un representante.
+0,quis sab com va mi disput puest que el vendedor no me da señal de nad,mi cuent no me da la opcion de pag con western union.
+0,quis sab com va mi disput puest que el vendedor no me da señal de nad,"despues de hac clic en inici sesion, me da un mensaj de error."
+0,quis sab com va mi disput puest que el vendedor no me da señal de nad,por que mi cest dic que no hay nad dispon
+0,quis sab los pas a segu,quier sab cuant podr ser los impuest y carg por importacion.
+0,quis sab si cad vez que compr vari articul de diferent vendedor es posibl que me envi tod junt,com pag tod lo que hay en mi cest de una vez
+0,"realic un ped y ahor no lo encuentr en mi list de pedidos, y necesit verl porqu cre que ped dos unidad y sol me ha lleg uno",hic un ped dos vec y quier cancel uno.
+0,"realic un ped y ahor no lo encuentr en mi list de pedidos, y necesit verl porqu cre que ped dos unidad y sol me ha lleg uno",com pued elimin los articul recib y articul pendient de pag de mi list de ped
+0,"realic unas compr de unos product y algun de ellos no me han llegado, los vendedor me dic que respond y que continu esperando, per es demasi tiempo, el ped lo hic en abril...","hic el pedido, per ellos sub el preci de repente."
+0,"realic unas compr de unos product y algun de ellos no me han llegado, los vendedor me dic que respond y que continu esperando, per es demasi tiempo, el ped lo hic en abril...","hic un pedido, per me lo cerraron."
+0,realis el pag de unos product per los vendedor no los han envi que pas,los vendedor pid que realic el pag antes de envi los productos.
+0,realis el pag de unos product per los vendedor no los han envi que pas,los vendedor pid que pag antes de envi los productos.
+0,realis el pag de unos product per los vendedor no los han envi que pas,el pag de los product no fue confirmado.
+0,rembols y lleg el ped,por que no recib un reembols por el ped
+0,reparacion en garanti de una tablet,com sub mi vide en respuest a una disput de mediacion
+0,reparacion en garanti de una tablet,"teng una dud sobr los cost de aduana, ¿en que valor estan tas"
+0,reparacion en garanti de una tablet,no pued abrir una disput por un ped en pendient de envio.
+1,result que mi product nunc lleg,quis ayud con un envi que nunc recibi.
+0,revert confirmacion de recepcion de ped,necesit el numer de seguimient de mi pedido.
+0,"sabs que me sal que no he pag un producto, per me lleg la confirmacion del banc que si se realiz el cobr",el vendedor promet que si cancel la disput me har el reembolso. ¿pued confi en el
+0,se cerr disput per en vez de devolv el diner me lo han vuelt a cobr,"me han cobrado, per el ped sig pendient de pago."
+1,se ha estrop y el vendedor no respond a mis mensaj,el vendedor esta siempr offlin y no respond mis mensajes.
+0,se ha realiz un pag con una de mis tarjet y yo no fui,he hech un pag onlin y ha finalizado.
+0,se pon la clav de de mi tarjet,com pon las palabr clav de la busqued par localiz los product que quier
+0,"se resolv la disput a mi favor, dic que me pong de acuerd con el equip de pag",me dic que mi direccion de email es incorrecta.
+0,se venci el tiemp par abrir disput,cual es el plaz par abrir disput
+0,se venc la proteccion,es gratis la proteccion del comprador
+0,segun el seguimient a mi ped dic que fue entreg per no lo he recib com hag par sab con que empres de mensaj lo envi y numer de gui par indag graci,no he recib el ped y el numer de seguimient que me dieron esta mal.
+0,ser posibl ten factur de mi ped,"si uso mi tarjet de credito, ¿pued ten proteccion del comprador"
+1,servici al client habl,necesit habl con atencion al cliente.
+1,"si cancel un product minut despues de comprar, cuant demor el reembols","si cancel mi pedido, ¿pued dec cuant tard el reembols"
+0,"si cancel un product minut despues de comprar, cuant demor el reembols",cuant dur la garant de un product
+0,si clar quier aument el numer de piez al ped,quier el numer gratuit de atencion al cliente.
+0,si el vendedor me envi esto que signif !!estado: el vendedor ha envi tu pedido.!!,el vendedor me ha envi los articulos. ¿com hag el seguimient del envi
+0,si encuentr dond hac la apel per no pued envi,"he envi los document par la apelacion, per no hay respuesta."
+0,si encuentr dond hac la apel per no pued envi,com encuentr la direccion postal del vendedor si teng que devolv articul
+0,"si estan de festej esper , per el ped lleg a argentin y fue devuelt a sg . no se porqu . el pag fue buen",hic un ped antes y el ped no se complet porqu el vendedor fue suspendido.
+0,si estoy interes nel product todavi,estoy esper el reembols de un producto.
+0,si estoy interes nel product todavi,"si recib el ped cuand no estoy en casa, ¿dond pued recog"
+0,si gracias.podri ayud a verific el estad de unos ped,pued ayud con el numer de cuent bancari que usan
+0,"si pag con una tarjet bancari de credito, y despu del pag el product no llega, pid un reembolso, dich reembols lleg a mi tarjet o a mi cuent corrient",por que fall mi pag con tarjet de credit
+0,"si quis sab si pued hac algo , envi mi compr a otro pais ...nunc la recibi",quier sab si mi ped fue enviado.
+0,si revis las pagin ver lo envi,com pued sab si el proveedor ha envi los product
+0,si se produc la cancel automat de un ped com recuper el diner,"el diner se ha ido, per aparec com no pagado."
+0,si se produc la cancel automat de un ped com recuper el diner,com pued cambi el motiv de la cancel de mi ped
+0,siend que mi ped vien desd españ tambi esta afect por las fiest chin,vien mi ped con proteccion del comprador automat
+0,signific de proces de dat,cual es el signific de lleg a la oficin intern de intercambi
+1,signific de proces de dat,que es proces de fond
+0,sol dese que mu lo cambi por otro igual o simil,"por favor, cambi la direccion de entrega, me he equivocado."
+0,sol hic una transferent a cuent del vendedor,pued cre una cuent de vendedor
+0,sol quier que me salg el ped,no he recib mi ped y quier que me devuelv mi dinero.
+0,sol quier que me salg el ped,quier que me devuelv mi dinero.
+0,"sol quier sab en que moment deb pon la opcion de confirm pedido, par no perd mi pag",mi proveedor quier que hag clic en confirm ped recib par darm el numer de seguimient correcto.
+0,tambi ya me han extend el period de proteccion y no lleg mis compr,mis compr fueron envi a un numer que no es el de mi casa.
+0,"tampoco. ya recib el producto, per al pon a prueb no es lo que dec la descripcion","si el product que recib no es el correcto, ¿pued devolv sin gast"
+0,te escrib en español o ingles,mi pagin esta en español.
+0,te estoy pon el n del ped de lleg,el vendedor rechaz mi solicitud de cancel del pedido.
+0,te pued envi el numer de ped,que pued hac si el vendedor se nieg a envi mi ped
+0,te pued envi el numer de ped,el ped no se pued envi a su pais.
+0,te pued envi el numer de ped,por que no pued envi una peticion de garant par mi ped
+0,te pued envi el numer de ped,por que el ped no se pued envi a mi pais/region
+0,tendr algun solucion par este retraz,no hay opcion par abrir una disput en este pedido.
+0,teng disput abiert y no teng respuest ni resolu al problema. he envi el vide y no teng respuest,"ya he envi el disposit y ha sid entregado, per aun no teng notici del proveedor. ¿qu pued hac"
+0,teng error en la pagin web,por que no veo los ped en la pagin web
+0,teng error en la pagin web,no teng la opcion par abrir disput en mi pedido.
+0,teng mis ped en apelacion ya present lo que me pid,por que me pid otro pag cuand ya he hech el pag
+0,teng pendient la devolucion de un product y la devolucion del import,la proteccion del comprador cubr los cost de envi o sol el preci del product
+0,teng problem par inici la sesion,teng un problem con mi envio.
+0,teng problem con garanti de sustitucion,teng problem pag con tarjet vis de debito.
+0,teng problem con mi cuent no pued hac compr,teng problem par cre mi cuenta.
+0,teng problem con una compr,teng problem par envi mensaj a vendedores.
+0,"teng un numer de cas ,mi problem es que quier compr per no pued hac el pag","quier pag con tarjet visa, per teng un problema."
+0,teng un ped que fue entreg en una direccion errone,cuand teng que verific mi ident al hac un ped
+1,teng un ped que fue entreg en una direccion errone,nuestr registr indic que su ped ha sid entreg con exito.
+0,teng un ped sin entreg y he solicit al vendedor devolucion del diner,he hech un ped y he introduc mal la direccion.
+1,teng un problem sobr un ped que hic y no me ha lleg,"hast ahora, mi ped no me ha llegado."
+0,"teng un problema, el ped no llego, el vendedor pidi tiempo, teng el mensaje, per cuand le report que no llego, ya no responde, y ya no pued abrir la disputa.","pid un reembolso, per el vendedor no responde."
+0,teng una apelacion pendient ya pas mas de tres dias y nad,teng una tarjet de debit y no tien fech de caducidad.
+0,"teng una apelacion, per no se porqu me salio? intent pag dos vec per me mand error, ahor me sal que no pued pag porqu teng una apelacion",quier present una reclam porqu el vendedor me ha estafado.
+0,teng una compensacion pendient,teng un problem sub una imagen.
+0,teng una consult sobr mi apelacion,teng un problem con mi ped en aduana. ¿pued envi una copi de mi factur
+0,teng una dud con respect a una compr que aun no lleg,"teng una dud sobr los cost de aduana, ¿en que valor estan tas"
+1,teng una pregunt quier habl con un human,necesit habl con una persona.
+0,teng una solicitud en apelacion y todavi no esta resuelt,es esta una pagin legitim
+0,teng vari ped que compr desd juli y no los he recib,necesit cancel los ped que he hecho.
+1,teni que lleg hoy el ped y no ha lleg,el ped aun no ha llegado.
+0,ten que recib respuest entre el miercol y hoy,quier cancel el ped y recib un reembolso.
+0,tiemp resolv apel,teng una disput sin resolver.
+0,todavi no lleg mi product,"si pid ahor con ups, ¿en cuant dias lleg el articul a mi pais"
+0,"tras pon en contact con el vendedor, par el reembols del pedido. no recib respuesta...!!!",cuand recib el reembols tras abrir disput
+0,tu banc sospech que exist fraud en esta transaccion. sugerent contact con el banc emisor de tu tarjeta.,he cancel un pedido. ¿est mi diner en el banc
+0,tu respuest anterior no la comprend,por que estoy esper la respuest de la otra part
+0,un human que me respond,ahor me ha lleg un email que dic que mi ped ha sid cancel porqu no pague.
+0,un human que me respond,por que me cobr dos vec por un articul que compr
+0,un ped no lleg correct,pued cancel un ped
+0,un vendedor me cobr de mas en el envi,"si el ped esta cerr por razon de seguridad, ¿aun se cobr el pag"
+0,un vendedor me cobr de mas en el envi,el vendedor me envi el paquet por envi gratuit en lug de ems.
+0,val esper un par de dias,cuant val un product
+0,val esper un par de dias,no teng un numer de seguimiento.
+0,valor un ped ya cerr,"ya he abiert una disputa, per usted la han cerrado."
+0,voy a compr un product y no me dej a la hor de pag,acab de compr un product y necesit que lo envi a una direccion diferente.
+0,voy a devolv un ped com lo teng q hac,"pag un ped y esta congelado, ¿qu teng que hac"
+0,y al pon en contact con vosotr cre que por error os he dad un numer de ped incorrect,que pued hac si he hech un ped por error
+0,y com cancel un ped ya que ha pas bastant y no sal del pais de orig,compr un product y no vin a mi pais.
+0,y cuand se me har efect el reembols,necesit sab cuand se me entreg el pedido.
+1,y el product que me envi lleg defectu,mi product esta defectuoso.
+0,y el product que me envi lleg defectu,me envi la tall equivocada.
+0,y el product que me envi lleg defectu,el vendedor me pid que confirm la entreg antes de envi el producto.
+0,y el vendedor a acced a devolv el diner,cuant tard en devolv el diner de una transaccion fall
+0,y el vendedor no contest hac ya una seman atras,"abri una disputa, per el vendedor la rechaz y se qued con mi dinero."
+0,y el vendedor no me da solucion,el vendedor dij que no hab stock y me pid cancelarlo.
+0,y estoy reclam un reembols,estoy intent hac un ped y no hay suerte.
+0,y estoy reclam un reembols,estoy busc un producto.
+0,y le he dad a recib y no se borr,pag mi ped y no lo he recibido.
+0,y me sal una pagin que dic que mi sesion finaliz,dic que mi cuent no existe.
+0,y necesit mi diner de regres,necesit cambi mi direccion de email.
+0,y no me han realiz el desembols,"he pag mi ped y me han ped que pag otra vez, ¿qu hag"
+0,y no me sali la cuent de paypal,abro una nuev cuent y no me dej compr cos aqui.
+0,y no me sali la cuent de paypal,me he registr y necesit mi cupon de nuev miembro.
+0,y sab el nombr y telefon de la person encarg de la entreg del product,com se comp la tall asiat y la de uk
+0,y yo cancel x medi de west union,"he intent pag con western union, per el numer de cuent no es correcto."
+0,y yo cancel x medi de west union,transferent bancari y western union no aparec com metod de pag en la pagin de pago.
+0,y yo cancel x medi de west union,com cancel mi ped despues de hac
+0,y yo cancel x medi de west union,por que el pag recib es menor de lo que yo pag
+0,ya exced el tiemp de la disput,el temporiz del tiemp restant antes de una disput parec extraño.
+0,ya exced el tiemp de la disput,no he recib el reembols despues de que finaliz la disputa.
+0,ya he intent vari vec durant vari dias hac mi ped y en el moment del pag me marc error,por que me cobr dos vec en mi cuent del banc por el ped
+0,ya he pag en el banc la sum acord per esta no se ha reflej en el status del ped,he especific la direccion. ¿recib el paquet en esta direccion
+0,ya he pag en el banc la sum acord per esta no se ha reflej en el status del ped,com pued el vendedor cambi la sum del ped
+0,ya hic eso y sig sin recib ayud,quier cancel mi ped y recib reembolso.
+0,ya hic mi reclam de un product que lleg mal,dond lleg a la pagin de pag
+0,"ya hic tod ese proces y a la fech no he recib ni product y reembolso,",ya he pag el ped y aparec com ped sospechoso.
+0,ya intent restablec y no me lleg el corre,com se cuand lleg el ped a mi pais
+0,ya le envi mensaj per no me respond,"quier cancel el pedido, per el vendedor no responde."
+0,ya le inform a mi vendedor y no he recib respuest,"ped cancel por el vendedor, y no he recib el dinero."
+0,ya lo hech y no funcion,"quier compr un vest hech a medida, ¿com lo hag"
+0,ya lo hech y no funcion,"ya he pagado, per aparec com que no lo hice."
+0,"ya lo hice,,,,, le estoy dic que esta por cuent del transport",estoy esper a que se complet la mediacion. ya llev meses.
+0,"ya lo hice,,,,, le estoy dic que esta por cuent del transport",hic clic en la solucion del vendedor por accidente.
+0,ya no hay proteccion al comprador...n pued abrir disputa. el vendedor no quier devolv mi diner,que pas si el vendedor no quier cancel mi ped
+0,ya pud realiz el ped graci,"no pud hac el pag con mi tarjet vis de debito, ¿pued ayudarme, por favor"
+0,ya que a yo pag es por western y no con target,no acept mi pag en western union. la razon es que el numer de cuent no es correcto.
+0,"yo no he abiert ningun disputa,",por que han confirm mi ped si he abiert una disput
+1,"yo quier cancel el ped per no aparec en mia pedidos, no pued realiz la accion por que no aparec en mi cuent",mi ped no aparec baj la pestañ mis pedidos.
+1,yo quier mi diner nad mas,quier que me devuelv mi dinero.
+0,yo quier mi diner nad mas,por que mi cest dic que no hay nad dispon
+0,yo quier sab q pas con mi pag,quier sab el estad de mi reclamacion.
+1,yo sol quier habl con un agent,necesit habl con un representante.
+1,yo sol quier habl con un agent,sol quier realiz el ped de un product instantaneamente.
+0,com pued proteg par que no hag ningun compr,cuant dias par que mi compr lleg a mi pais
+0,porqu siempr me mand el mism corre,el vendedor esta siempr offlin y no respond mis mensajes.
+0,pued usted comunic con el vendedor,pued ayud con el numer de cuent bancari que usan
+0,pued devolv un product por corre ordinari,com pued ped un product
+0,que deb hac par sab si me van a hac el envi,com pued hac que me devuelv el diner
+0,quier sab si estas envi bat a brasil,me gust sab si acept americ express.
+0,a mi ped le falt el asa pequeñ,he recib el mensaj de que algun product fueron cancel por falt de pago.
+0,a que mail pued mand mis disput,no pued hac el seguimient de mis product con el codig que me dio el vendedor.
+0,a que mail pued mand mis disput,com pued pag mis compr
+0,abri una disput buen eso cre,com cancel una disput
