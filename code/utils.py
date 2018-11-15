@@ -2,16 +2,69 @@
 # -*- coding: utf-8 -*-
 
 import pandas as pd
+import numpy as np
 import re
 from nltk.stem import SnowballStemmer
 import pickle
 import sys
 from sklearn.metrics.pairwise import cosine_similarity
 from difflib import SequenceMatcher
+import configparser as ConfigParser
 try:
     import lzma
 except:
     pass
+class Loader:
+    def __init__(self, config_fp):
+        self.feature_name = self.__class__.__name__
+        self.config = ConfigParser.ConfigParser()
+        self.config.read(config_fp)
+
+    def loadFeatures(self, DataSpanishSenPair, features_name):
+        Features = pd.DataFrame()
+        for cur_featureName in features_name:
+            path = '../data/Feature/' + cur_featureName + '.smat'
+            features_file = open(path)
+            line = features_file.readline()
+            numsamle, numSubFeatures = [int(e) for e in line.split()]
+            line = features_file.readline()
+            cur_feature = np.zeros((numsamle, numSubFeatures))
+            count = 0
+            while line:
+                cur_feature[count, :] = [e.split(":")[1] for e in line.split()]
+                line = features_file.readline()
+                count += 1
+            for i in range(numSubFeatures):
+                cur_name = cur_featureName + '_' + str(i)
+                Features[cur_name] = cur_feature[:, i]
+        DataSpanishSenPair['Features'] = Features
+
+    def loadLabel(self, DataSpanishSenPair):
+        path = '../data/Feature/Label_0.smat'
+        features_file = open(path)
+        line = features_file.readline()
+        numsamle, numSubFeatures = [int(e) for e in line.split()]
+        line = features_file.readline()
+        Labels_list = np.zeros((numsamle, numSubFeatures))
+        count = 0
+        while line:
+            Labels_list[count] = [e.split(":")[1] for e in line.split()]
+            line = features_file.readline()
+            count += 1
+        DataSpanishSenPair['Labels'] = Labels_list
+
+    def loadAllData(self):
+        feature_pt = self.config.get('FEATURE', 'feature_selected')
+        features_name = feature_pt.split()
+        num_features = len(features_name)
+        DataSpanishSenPair = {}
+        DataSpanishSenPair['featuresName'] = features_name
+        DataSpanishSenPair['LabelName'] = 'isSameMeaning'
+        DataSpanishSenPair['NumberFeatures'] = num_features
+        self.loadFeatures(DataSpanishSenPair, features_name)
+        self.loadLabel(DataSpanishSenPair)
+        return DataSpanishSenPair
+
 
 class Processing(object):
     def __init__(self):

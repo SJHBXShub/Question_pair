@@ -196,7 +196,7 @@ class Feature(object):
                 features = Feature.load('%s/md5_%s.smat' % (feature_pt, f_names_md5))
                 break
         LogUtil.log('INFO', 'load %s features [%s, %s)' % (rawset_name, feature_names[0], feature_names[index_begin]))
-        
+
         if 1 > index_begin:
             features = Feature.load('%s/%s.%s.smat' % (feature_pt, feature_names[0], rawset_name))
         for index in range(index_begin + 1, len(feature_names)):
@@ -205,10 +205,6 @@ class Feature(object):
                                              '%s/%s.%s.smat' % (feature_pt, feature_names[index], rawset_name)))
         features = features.tocsr()
 
-        if will_save and (index_begin < len(feature_names) - 1):
-            f_names_s = '|'.join(feature_names) + '|' + rawset_name
-            f_names_md5 = hashlib.md5(f_names_s.encode("utf8")).hexdigest()
-            Feature.save_npz(features, '%s/md5_%s.smat' % (feature_pt, f_names_md5))
         return features
 
     @staticmethod

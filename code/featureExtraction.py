@@ -244,3 +244,11 @@ class TFIDFSpanish(Extractor):
 
     def get_feature_num(self):
         return 4
+
+
+class Label(Extractor):
+    def extract_row(self, row):
+        return [int(row['is_duplicate'])]
+
+    def get_feature_num(self):
+        return 1

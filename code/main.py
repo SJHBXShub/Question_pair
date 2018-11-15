@@ -1,13 +1,13 @@
 #! /usr/bin/python
 # -*- coding: utf-8 -*-
-from utils import Processing
+from utils import Processing, Loader
 from featureExtraction import Not, WordMatchShare,\
      Length, NgramJaccardCoef, long_common_sequence,\
      fuzz_partial_token_set_ratio, fuzz_partial_token_sort_ratio,\
-     TFIDFSpanish
+     TFIDFSpanish, Label
 
 if __name__ == '__main__':
-    Model_Flag = 2
+    Model_Flag = 3
     config_fp = './featwheel.conf'
 
     if Model_Flag == 1:
@@ -26,3 +26,8 @@ if __name__ == '__main__':
         fuzz_partial_token_set_ratio(config_fp).extract(data_fp=data_fp, feature_version=0)
         fuzz_partial_token_sort_ratio(config_fp).extract(data_fp=data_fp, feature_version=0)
         TFIDFSpanish(config_fp, data_fp).extract(data_fp=data_fp, feature_version=0)
+        Label(config_fp).extract(data_fp=data_fp, feature_version=0)
+
+    if Model_Flag == 3:
+        DataSpanishSenPair = Loader(config_fp).loadAllData()
+        print(DataSpanishSenPair.keys())
