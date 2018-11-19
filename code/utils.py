@@ -14,6 +14,17 @@ try:
     import lzma
 except:
     pass
+
+class MyFunction(object):
+    def read_embedding(filename):
+        embed = {}
+        for line in open(filename,encoding='utf-8'):
+            line = line.strip().split()
+            embed[str(line[0])] = list(map(float, line[1:]))
+        print('[%s]\n\tEmbedding size: %d' % (filename, len(embed)), end='\n')
+        return embed
+
+
 class Loader:
     def __init__(self, config_fp):
         self.feature_name = self.__class__.__name__
