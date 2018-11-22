@@ -80,6 +80,22 @@ class Loader:
 class Processing(object):
     def __init__(self):
         pass
+    def excute_csv(self, data_pt, save_pt):
+        data = File.readVector(data_pt)
+        spanish_sentence1 = []
+        spanish_sentence2 = []
+        is_duplicateline = []
+
+        for row in data:
+            processed_spa1 = self.removePunctuationAndLower(row.split(',')[1])
+            processed_spa1 = self.stemming(processed_spa1)
+            processed_spa2 = self.removePunctuationAndLower(row.split(',')[2])
+            processed_spa2 = self.stemming(processed_spa2)
+            spanish_sentence1.append(processed_spa1)
+            spanish_sentence2.append(processed_spa2)
+            is_duplicateline.append(row.split(',')[0])
+        data_frame = pd.DataFrame({'spanish_sentence1':spanish_sentence1, 'spanish_sentence2':spanish_sentence2, 'is_duplicate':is_duplicateline})
+        data_frame.to_csv(save_pt, index=False, encoding='UTF-8')
 
     def excute(self, data_pt, save_pt):
         data = File.readVector(data_pt)

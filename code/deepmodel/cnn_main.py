@@ -18,7 +18,7 @@ from sklearn.model_selection import KFold
 from utils import MyFunction, EarlyStopWhenValLossLessThanExpect
 
 #CNN3 CNN2 ARCI ARCII  MVLSTM DUET DA
-ModelName = 'CNN3'
+ModelName = 'ARCI'
 pre_out_path = './OUT/'
 total_train_num = 21400
 
@@ -62,7 +62,8 @@ spa_list.extend(list(test['spa_qura2_list']))
 MAX_NB_WORDS = 20000
 MAX_SEQUENCE_LENGTH = 30
 EMBEDDING_DIM = 300
-
+print(len(spa_list))
+print(spa_list[0])
 # 生成token词典
 tokenizer = Tokenizer(num_words=MAX_NB_WORDS)
 tokenizer.fit_on_texts(spa_list)
