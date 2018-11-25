@@ -14,11 +14,12 @@ from MVLstm_model import *
 from arci import *
 from arcii import *
 from da_model import *
+from matchpyramid_model import *
 from sklearn.model_selection import KFold
 from utils import MyFunction, EarlyStopWhenValLossLessThanExpect
 
 #CNN3 CNN2 ARCI ARCII  MVLSTM DUET DA
-ModelName = 'ARCI'
+ModelName = 'MVLSTM'
 pre_out_path = './OUT/'
 total_train_num = 21400
 
@@ -141,7 +142,7 @@ for idx_train, idx_val in folds.split(data_1):
 
     early_stopping = EarlyStopping(monitor='val_loss', patience=20)
     reduce_lr = ReduceLROnPlateau( patience=8)
-    early_stop_expect_value = EarlyStopWhenValLossLessThanExpect(patience=2, expect_value = 0.3)
+    early_stop_expect_value = EarlyStopWhenValLossLessThanExpect(patience=2, expect_value = 0.25)
     for i in range(4):
         Cnn = eval(ModelName)()
         model = Cnn.build_model(embedding_matrix, data_1.shape[1])
@@ -173,14 +174,21 @@ for idx_train, idx_val in folds.split(data_1):
 
 print("val_loss_results_mean:", np.mean(val_loss_result))
 print("test_pred_results_mean:", np.mean(test_pred_results))
-
+'''
 #save test result
 pred_results_mean = (test_pred_results[0] + test_pred_results[1] + test_pred_results[2] + test_pred_results[3] + test_pred_results[4]) / 5
 pred_results_mea = pd.DataFrame(pred_results_mean)
 pred_results_mea.to_csv(pre_out_path+ModelName+'_cnnresult.dat',index = None,header = None)
 
-#save train and test result
-val_pred_results.extend(pred_results_mean)
+#save train result
+# val_pred_results.extend(pred_results_mean)
 all_pred_results = pd.DataFrame(val_pred_results)
 all_pred_results.to_csv(pre_out_path+ModelName+'_all_pred_results.dat',index=None,header=None)
-
+'''
+# save 21400 train feature
+save_fp = pre_out_path+ModelName+'_deepModel.smat'
+feature_file = open(save_fp, 'w')
+feature_file.write('%d %d\n' % (1, 21400))
+for cur_val in val_pred_results:
+    feature_file.write('0:%s\n' % str(cur_val[0]))
+feature_file.close()

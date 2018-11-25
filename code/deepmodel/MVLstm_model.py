@@ -36,9 +36,8 @@ class MVLSTM:
         # Run inputs through embedding
         q_embed = emb_layer(seq1)
         d_embed = emb_layer(seq2)
-
-        q_rep = Bidirectional(LSTM(hidden_size, return_sequences=True, dropout=dropout_rate))(q_embed)
-        d_rep = Bidirectional(LSTM(hidden_size, return_sequences=True, dropout=dropout_rate))(d_embed)
+        q_rep = keras.layers.LSTM(hidden_size, return_sequences=True, dropout=dropout_rate)(q_embed)
+        d_rep = keras.layers.LSTM(hidden_size, return_sequences=True, dropout=dropout_rate)(d_embed)
  
         cross = Match(match_type='dot')([q_rep, d_rep])
         cross_reshape = Reshape((-1, ))(cross)

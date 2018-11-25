@@ -7,7 +7,7 @@ from featureExtraction import Not, WordMatchShare,\
      TFIDFSpanish, Label
 
 if __name__ == '__main__':
-    Model_Flag = 2
+    Model_Flag = 3
     config_fp = './featwheel.conf'
 
     if Model_Flag == 1:
@@ -31,3 +31,5 @@ if __name__ == '__main__':
     if Model_Flag == 3:
         DataSpanishSenPair = Loader(config_fp).loadAllData()
         print(DataSpanishSenPair.keys())
+        print("feature name", DataSpanishSenPair['featuresName'])
+        print(len(DataSpanishSenPair['Features']['ARCI_deepModel_0']))

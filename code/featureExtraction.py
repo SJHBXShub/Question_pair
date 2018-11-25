@@ -55,7 +55,7 @@ class Not(Extractor):
         self.snowball_stemmer = SnowballStemmer('spanish')
 
     def get_feature_num(self):
-        return 5
+        return 6
 
     def extract_row(self, row):
         q1 = str(row['spanish_sentence1']).strip()
@@ -85,6 +85,10 @@ class Not(Extractor):
         else:
             fs.append(0.)
         if not_cnt2 <= 0 < not_cnt1 or not_cnt1 <= 0 < not_cnt2:
+            fs.append(1.)
+        else:
+            fs.append(0.)
+        if abs(not_cnt1 - not_cnt2) % 2 == 0:
             fs.append(1.)
         else:
             fs.append(0.)
@@ -125,10 +129,12 @@ class Length(Extractor):
         fs.append(len(q2))
         fs.append(len(q1.split()))
         fs.append(len(q2.split()))
+        fs.append(abs(len(q1) - len(q2)))
+        fs.append(abs(len(q1.split())-len(q2.split())))
         return fs
 
     def get_feature_num(self):
-        return 4
+        return 6
 
 
 class NgramJaccardCoef(Extractor):
@@ -240,10 +246,12 @@ class TFIDFSpanish(Extractor):
         fs.append(sum_tfidf_q2)
         fs.append(avg_tfidf_q1)
         fs.append(avg_tfidf_q2)
+        fs.append(abs(sum_tfidf_q1 - sum_tfidf_q2))
+        fs.append(abs(avg_tfidf_q1 - avg_tfidf_q2))
         return fs
 
     def get_feature_num(self):
-        return 4
+        return 6
 
 
 class Label(Extractor):
